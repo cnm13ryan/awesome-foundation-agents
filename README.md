@@ -1,4 +1,5 @@
-# Awesome-FoundationAgents
+# awesome-foundation-agents
+
 
 We maintains a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
 
