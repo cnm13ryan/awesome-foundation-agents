@@ -37,7 +37,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 #### Learning
 
-* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *Qwen Team, Jan 2025*  
+* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *DeepWisdom, Jan 2025*  
   [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
   [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT)
   [![Code](https://img.shields.io/badge/Code-Github-green)](https://github.com/geekan/MetaGPT)
