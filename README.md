@@ -1,20 +1,23 @@
 # awesome-foundation-agents
 
+[![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/FoundationAgents/awesome-foundation-agents/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 We maintains a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
 
 ## Our Works Towards Foundation Agents
 
-✨✨✨ Advances and Challenges in Foundation Agents (Paper)
+✨✨✨ [Advances and Challenges in Foundation Agents]() (Paper)
 
-🔥🔥🔥 [MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) (Paper)
-
-🔥🔥🔥 [TBD](https://arxiv.org/abs/2308.00352) (Paper)
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/brain.png" alt="The key of human brain." width="48%">
+    <img src="assets/agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
+</div>
 
 # Awesome Papers
 
-<font size=5><center><b> Table of Contents(TODO) </b> </center></font>
+<font size=5><center><b> Table of Contents </b> </center></font>
 - [Core Components of Intelligent Agents](#core-components-of-intelligent-agents)
     - [Cognition](#cognition)
     - [Memory](#memory)
@@ -28,19 +31,21 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - [Building Safe and Beneficial AI](#building-safe-and-beneficial-ai)
 
 
-
-
-Self-Enhancement in Intelligent Agents
-Collaborative and Evolutionary Intelligent Systems
-Building Safe and Beneficial AI
-
 ## Core Components of Intelligent Agents
 
 ### Cognition
 
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) <br> [**Qwen2.5-VL**](https://qwenlm.github.io/blog/qwen2.5-vl/) <br> | Qwen | 2025-01-26 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
+#### Learning
+
+* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *Qwen Team, Jan 2025*  
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
+  [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT)
+  [![Code](https://img.shields.io/badge/Code-Github-green)](https://github.com/geekan/MetaGPT)
+  [![Demo](https://img.shields.io/badge/Demo-HuggingFace-blue)]()  
+  > The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+
+#### Reasoning
+
 
 ### Memory
 
