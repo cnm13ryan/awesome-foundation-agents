@@ -275,4 +275,119 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/LLM-MAS.png" alt="LLM-based Multi-Agent Systems" width="100%">
 </div>
 
+## Application
+### Strategic Learning
+- RECONCILE (Chen et al., 2023)
+- LLM-Game-Agent (Lan et al., 2023)
+- BattleAgentBench (Wang et al., 2024)
+
+### Modeling and Simulation
+- Generative Agents (Park et al., 2023)
+- Agent Hospital (Li et al., 2024)
+- MedAgents (Tang et al., 2024)
+- MEDCO (Wei et al., 2024)
+
+### Collaborative Task Solving
+- MetaGPT (Hong et al., 2023)
+- ChatDev (Qian et al., 2024)
+- Agent Laboratory (Schmidgall et al., 2025)
+- The Virtual Lab (Swanson et al., 2024)
+
+## Composition and Protocol
+### Agent Composition
+#### Homogeneous
+- CoELA (Zhang et al., 2023)
+- VillagerAgent (Dong et al., 2024)
+- LLM-Coordination (Agashe et al., 2024)
+
+#### Heterogeneous
+- MetaGPT (Hong et al., 2023)
+- ChatDev (Qian et al., 2024)
+- Generative Agents (Park et al., 2023)
+- S-Agents (Chen et al., 2024)
+
+### Interaction Protocols
+#### Message Types
+- SciAgents (Ghafarollahi et al., 2024)
+- AppAgent (Chi et al., 2023)
+- MetaGPT (Hong et al., 2023)
+
+#### Communication Interfaces
+- AgentBench (Liu et al., 2023)
+- VAB (Liu et al., 2024)
+- TaskWeaver (Qiao et al., 2024)
+- HULA (Takerngsaksiri et al., 2025)
+
+### Next Generation Protocol
+- MCP (Anthropic)
+- Agora (Marro et al., 2024)
+- IoA (Chen et al., 2024)
+
+## Topology
+### Static Topology
+- MEDCO (Wei et al., 2024)
+- Agent Hospital (Li et al., 2024)
+- Welfare Diplomacy (Mukobi et al., 2023)
+- MedAgents (Tang et al., 2024)
+
+### Dynamic Topology
+- DyLAN (Liu et al., 2023)
+- GPTSwarm (Zhuge et al., 2024)
+- CodeR (Chen et al., 2024)
+- Oasis (Yang et al., 2024)
+
+## Collaboration
+### Agent-Agent Collaboration
+#### Consensus-oriented
+- Agent Laboratory (Schmidgall et al., 2025)
+- The Virtual Lab (Swanson et al., 2024)
+- OASIS (Yang et al., 2024)
+
+#### Collaborative Learning
+- Generative Agents (Park et al., 2023)
+- Welfare Diplomacy (Mukobi et al., 2023)
+- LLM-Game-Agent (Lan et al., 2023)
+- BattleAgentBench (Wang et al., 2024)
+
+#### Teaching/Mentoring
+- MEDCO (Wei et al., 2024)
+- Agent Hospital (Li et al., 2024)
+
+#### Task-oriented
+- MedAgents (Tang et al., 2024)
+- S-Agents (Chen et al., 2024)
+
+### Human-AI Collaboration
+- Dittos (Leong et al., 2024)
+- PRELUDE (Gao et al., 2024)
+
+## Evolution
+### Collective Intelligence
+- Generative Agents (Park et al., 2023)
+- Welfare Diplomacy (Mukobi et al., 2023)
+- LLM-Game-Agent (Lan et al., 2023)
+- BattleAgentBench (Wang et al., 2024)
+
+### Individual Adaptability
+- Agent Hospital (Li et al., 2024)
+- Agent Laboratory (Schmidgall et al., 2025)
+- MEDCO (Wei et al., 2024)
+
+## Evaluation
+### Benchmark for Specific Tasks
+- MBPP (dataset-mbpp)
+- HotpotQA (dataset-hotpot-qa)
+- MATH (dataset-math)
+- SVAMP (dataset-svamp)
+- MultiArith (dataset-multiarith)
+
+### Benchmark for MAS
+- Collab-Overcooked (Sun et al., 2025)
+- REALM-Bench (Geng et al., 2025)
+- PARTNR (Chang et al., 2024)
+- VillagerBench (Dong et al., 2024)
+- AutoArena (Zhao et al., 2024)
+- MultiagentBench (Zhu et al., 2025)
+
+
 # Building Safe and Beneficial AI
