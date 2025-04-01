@@ -1,4 +1,4 @@
-# awesome-foundation-agents
+# Awesome-Foundation-Agents
 
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/FoundationAgents/awesome-foundation-agents/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
