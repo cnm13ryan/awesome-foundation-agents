@@ -58,6 +58,210 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/action.jpg" alt="The action." width="100%">
 </div>
 
+### Language
+
+#### Text
+
+- **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://github.com/ysymyth/ReAct)]
+
+- **AutoGPT: Build, Deploy, and Run AI Agents**, Github, [[code](https://github.com/Significant-Gravitas/AutoGPT)]
+
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn/reflexion)]
+
+- **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency**, arXiv 2023, [[paper](https://arxiv.org/abs/2304.11477)] [[code](https://github.com/Cranial-XIX/llm-pddl)]
+
+#### Code
+
+- **MetaGPT**, Details to be added
+
+- **ChatDev**, Details to be added
+
+- **SWE-Agent**, Details to be added
+
+- **OpenDevin**, Details to be added
+
+#### Chat
+
+- **Generative Agents**, Details to be added
+
+- **AutoGen**, Details to be added
+
+### Digital
+
+#### Game
+
+- **MineDojo**, Details to be added
+
+- **Voyager**, Details to be added
+
+- **SwarmBrain**, Details to be added
+
+- **JARVIS-1**, Details to be added
+
+#### Multimodal
+
+- **MM-ReAct**, Details to be added
+
+- **ViperGPT**, Details to be added
+
+- **Visual-ChatGPT**, Details to be added
+
+- **HuggingGPT**, Details to be added
+
+#### Web
+
+- **WebGPT**, Details to be added
+
+- **WebShop**, Details to be added
+
+- **WebAgent**, Details to be added
+
+- **Mind2Web**, Details to be added
+
+#### GUI
+
+- **Mobile-Agent**, Details to be added
+
+- **AppAgent**, Details to be added
+
+- **UFO**, Details to be added
+
+- **OmniParser**, Details to be added
+
+#### DB & KG
+
+- **UnifiedSKG**, Details to be added
+
+- **Pangu**, Details to be added
+
+- **BIRD**, Details to be added
+
+- **Spider 2.0**, Details to be added
+
+- **Middleware**, Details to be added
+
+### Physical
+
+- **RT-1**, Details to be added
+
+- **RT-2**, Details to be added
+
+- **RT-X**, Details to be added
+
+- **GR-2**, Details to be added
+
+- **πo**, Details to be added
+
+- **Saycan**, Details to be added
+
+- **VoxPoser**, Details to be added
+
+- **EmbodiedGPT**, Details to be added
+
+## Learning
+
+### ICL (In-Context Learning)
+
+#### Prompt
+
+- **CoT**, Details to be added
+
+- **ReAct**, arXiv, 2022 [[paper](https://arxiv.org/abs/2210.03629)]
+
+- **Auto-CoT**, Details to be added
+
+- **ToT**, Details to be added
+
+- **GoT**, Details to be added
+
+- **CoA**, Details to be added
+
+#### Decompose
+
+- **Least-to-Most**, Details to be added
+
+- **HuggingGPT**, Details to be added
+
+- **Plan-and-Solve**, Details to be added
+
+- **ProgPrompt**, Details to be added
+
+#### Role-play
+
+- **Generative Agents**, Details to be added
+
+- **MetaGPT**, Details to be added
+
+- **ChatDev**, Details to be added
+
+- **SWE-Agent**, Details to be added
+
+#### Refine
+
+- **Reflexion**, arXiv, 2023 [[paper](https://arxiv.org/abs/2303.11366)]
+
+- **Self-refine**, Details to be added
+
+- **GPTSwarm**, Details to be added
+
+### PT & SFT (Pre-Training & Supervised Fine-Tuning)
+
+#### Pre-Train
+
+- **RT-1**, Details to be added
+
+- **RT-2**, Details to be added
+
+- **RT-X**, Details to be added
+
+- **GR-2**, Details to be added
+
+- **LAM**, Details to be added
+
+#### SFT
+
+- **LearnAct**, Details to be added
+
+- **CogACT**, Details to be added
+
+- **RT-H**, Details to be added
+
+- **OpenVLA**, Details to be added
+
+- **GR-2**, Details to be added
+
+- **πo**, Details to be added
+
+- **UniAct**, Details to be added
+
+### RL (Reinforcement Learning)
+
+- **RLHF**, Details to be added
+
+- **DPO**, Details to be added
+
+- **RLFP**, Details to be added
+
+- **ELLM**, Details to be added
+
+- **GenSim**, Details to be added
+
+- **LEA**, Details to be added
+
+- **MLAQ**, Details to be added
+
+- **KALM**, Details to be added
+
+- **When2Ask**, Details to be added
+
+- **Eureka**, Details to be added
+
+- **ArCHer**, Details to be added
+
+- **LLaRP**, Details to be added
+
+- **GPTSwarm**, Details to be added
+
 ## Reward
 
 ## Emotion
