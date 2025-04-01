@@ -34,6 +34,9 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 # Core Components of Intelligent Agents
 
 ## Cognition
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Cognition.png" alt="Cognition System" width="100%">
+</div>
 
 ## Learning
 
@@ -48,6 +51,9 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 
 ## Memory
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Memory.png" alt="Memory in Intelligence Agents" width="100%">
+</div>
 
 ### 1. Representation
 
@@ -200,6 +206,9 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 
 ## Perception
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Perception.png" alt="Perception System" width="100%">
+</div>
 
 ## World Model
 
@@ -415,10 +424,15 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - **GPTSwarm**, Details to be added
 
 ## Reward
-
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Reward.png" alt="Reward System" width="100%">
+</div>
 ## Emotion
 
 # Self-Enhancement in Intelligent Agents
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Self_Evo.png" alt="Self-evolution" width="100%">
+</div>
 
 # Collaborative and Evolutionary Intelligent Systems
 <div style="display: flex; justify-content: space-between;">
@@ -541,3 +555,6 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 
 # Building Safe and Beneficial AI
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/Safety.png" alt="Agent Intrinsic Safety" width="100%">
+</div>
