@@ -271,5 +271,8 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 # Self-Enhancement in Intelligent Agents
 
 # Collaborative and Evolutionary Intelligent Systems
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/LLM-MAS.jpg" alt="The action." width="100%">
+</div>
 
 # Building Safe and Beneficial AI
