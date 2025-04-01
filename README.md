@@ -54,6 +54,9 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ### World Model
 
 ### Action
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/action.jpg" alt="The action." width="100%">
+</div>
 
 ### Reward
 
