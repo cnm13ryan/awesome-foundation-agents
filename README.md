@@ -621,6 +621,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/Reward.png" alt="Reward System" width="100%">
 </div>
+
 ### Extrinsic Reward
 #### Dense Reward
 - InstructGPT (Ouyang et al., 2022)
