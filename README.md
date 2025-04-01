@@ -15,6 +15,8 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
 </div>
 
+
+
 # Awesome Papers
 
 <font size=5><center><b> Table of Contents </b> </center></font>
@@ -31,6 +33,13 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - [Building Safe and Beneficial AI](#building-safe-and-beneficial-ai)
 
 
+* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *DeepWisdom, Jan 2025*  
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
+  [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT)
+  [![Code](https://img.shields.io/badge/Code-Github-green)](https://github.com/geekan/MetaGPT)
+  [![Demo](https://img.shields.io/badge/Demo-HuggingFace-blue)]()  
+  > The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+
 # Core Components of Intelligent Agents
 
 ## Cognition
@@ -38,14 +47,102 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/Cognition.png" alt="Cognition System" width="100%">
 </div>
 
-## Learning
+### Learning
+#### Space
+##### Full
+- SFT (Wei et al., 2021)
+- PEFT (Houlsby et al., 2019)
+- RLHF (Ouyang et al., 2022)
+- ReFT (Luong et al., 2024)
+- Agentic Models (Song et al., 2025)
 
-* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *DeepWisdom, Jan 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
-  [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT)
-  [![Code](https://img.shields.io/badge/Code-Github-green)](https://github.com/geekan/MetaGPT)
-  [![Demo](https://img.shields.io/badge/Demo-HuggingFace-blue)]()  
-  > The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+##### Partial
+- CoT (Wei et al., 2022)
+- Voyager (Wang et al., 2023)
+- Reflexion (Shinn et al., 2023)
+- ActRe (Yang et al., 2024)
+- Generative Agents (Park et al., 2023)
+
+#### Objective
+##### Perception
+- CLIP (Alec et al., 2021)
+- LLaVA (Liu et al., 2023)
+- CogVLM (Wang et al., 2025)
+- Qwen-Audio (Chu et al., 2024)
+- R1-Searcher (Song et al., 2025)
+- Search-R1 (Jin et al., 2025)
+
+##### Reasoning
+- SKY-32B (2025)
+- Open Thoughts
+- LIMO (Ye et al., 2025)
+- STaR (Zelikman et al., 2022)
+- ReST (Gulcehre et al., 2023)
+- OpenR (Wang et al., 2024)
+- LLaMA-Berry (Zhang et al., 2024)
+- RAGEN (Wang et al., 2025)
+- OpenR1 (2024)
+
+##### World
+- Inner Monologue (Huang et al., 2023)
+- DESP (Wang et al., 2023)
+- Self-refine (Madaan et al., 2024)
+- CRITIC (Gou et al.)
+- Reflexion (Shinn et al., 2023)
+- ExpeL (Zhao et al., 2024)
+
+### Reasoning
+#### Structured
+##### Dynamic
+- ReAct (Yao et al., 2022)
+- MCoT (Yang et al., 2024)
+- ToT (Yao et al.)
+- LATS (Zhou et al., 2024)
+- RAP (Hao et al., 2023)
+- GoT (Besta et al., 2023)
+- PoT (Zhang et al., 2024)
+- DoT (Zhang et al., 2024)
+
+##### Static
+- Self-Consistency (Wang et al., 2023)
+- Self-refine (Madaan et al., 2024)
+- PHP (Zheng et al., 2023)
+- Self-Verification (Stechly et al., 2024)
+- CoVe (Dhuliawala et al., 2024)
+
+##### Domain
+- MathPrompter (Imani et al., 2023)
+- PedCoT (Jiang et al., 2024)
+- Physics Reasoner (Pang et al., 2025)
+
+#### Unstructured
+##### Prompt
+- CoT (Wei et al., 2022)
+- Step-Back (Zheng et al.)
+- Ask Me Anything (Arora et al., 2022)
+- CoK (Li et al., 2023)
+- SEK (Fan et al., 2024)
+
+##### Model
+- DeepSeek-R1 (Guo et al., 2025)
+- Claude 3.7 Sonnet (Anthropic, 2023)
+- o1 (Jaech et al., 2024)
+
+##### Implicit
+- Quiet-STaR (Zelikman et al., 2024)
+- Coconut (Hao et al., 2024)
+
+#### Planning
+- DEPS (Wang et al., 2023)
+- ProgPrompt (Singh et al., 2023)
+- ADaPT (Prasad et al., 2023)
+- ToT (Yao et al.)
+- RAP (Hao et al., 2023)
+- TravelPlanner (Xie et al., 2024)
+- PDDL (McDermott et al., 1998)
+- Mind2Web (Deng et al., 2024)
+
+
 
 ## Reasoning
 
