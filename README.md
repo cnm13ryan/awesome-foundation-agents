@@ -144,9 +144,6 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 
 
-## Reasoning
-
-
 ## Memory
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/Memory.png" alt="Memory in Intelligence Agents" width="100%">
@@ -624,6 +621,83 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/Reward.png" alt="Reward System" width="100%">
 </div>
+### Extrinsic Reward
+#### Dense Reward
+- InstructGPT (Ouyang et al., 2022)
+- DRO (Richemond et al., 2024)
+- sDPO (Kim et al., 2024)
+- ΨPO (Azar et al., 2024)
+- β-DPO (Wu et al., 2025)
+- ORPO (Hong et al., 2024)
+- DNO (Rosset et al., 2024)
+- f-DPO (Wang et al., 2023)
+- Xu et al., 2023
+- Rafailov et al., 2024
+
+#### Sparse Reward
+- PAFT (Pentyala et al., 2024)
+- SimPO (Meng et al., 2025)
+- LiPO (Liu et al., 2024)
+- RRHF (Yuan et al., 2023)
+- PRO (Song et al., 2024)
+- D²O (Duan et al., 2024)
+- NPO (Zhang et al., 2024)
+- Ahmadian et al., 2024
+
+#### Delayed Reward
+- CPO (Xu et al., 2024)
+- NLHF (Munos et al., 2023)
+- Swamy et al., 2024
+
+#### Adaptive Reward
+- InstructGPT (Ouyang et al., 2022)
+- DRO (Richemond et al., 2024)
+- β-DPO (Wu et al., 2025)
+- ORPO (Hong et al., 2024)
+- PAFT (Pentyala et al., 2024)
+- SimPO (Meng et al., 2025)
+- NLHF (Munos et al., 2023)
+- Swamy et al., 2024
+- f-DPO (Wang et al., 2023)
+
+### Intrinsic Reward
+#### Curiosity-Driven Reward
+- Pathak et al., 2017
+- Pathak et al., 2019
+- Plan2Explore (Sekar et al., 2020)
+
+#### Diversity Reward
+- LIIR (Du et al., 2019)
+
+#### Competence-Based Reward
+- CURIOUS (Colas et al., 2019)
+- Skew-Fit (Pong et al., 2019)
+- DISCERN (Hassani et al., 2021)
+- Yuan et al., 2024
+- KTO (Ethayarajh et al., 2024)
+
+#### Exploration Reward
+- Yuan et al., 2024
+- Burda et al., 2018
+
+#### Information Gain Reward
+- Ton et al., 2024
+- VIME (Houthooft et al., 2016)
+- EMI (Kim et al., 2018)
+- MAX (Shyam et al., 2019)
+- KTO (Ethayarajh et al., 2024)
+
+### Hybrid Reward
+#### Combination of Intrinsic and Extrinsic Reward
+- d-RLAIF (Lee et al., 2023)
+- Bai et al., 2022
+- Xiong et al., 2023
+- Dong et al., 2024
+
+### Hierarchical Reward
+#### Hierarchical Reward
+- TDPO (Zeng et al., 2024)
+
 ## Emotion
 
 # Self-Enhancement in Intelligent Agents
