@@ -31,11 +31,11 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - [Building Safe and Beneficial AI](#building-safe-and-beneficial-ai)
 
 
-## Core Components of Intelligent Agents
+# Core Components of Intelligent Agents
 
-### Cognition
+## Cognition
 
-#### Learning
+## Learning
 
 * 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *DeepWisdom, Jan 2025*  
   [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
@@ -44,26 +44,26 @@ We maintains a curated collection of papers exploring the path towards Foundatio
   [![Demo](https://img.shields.io/badge/Demo-HuggingFace-blue)]()  
   > The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-#### Reasoning
+## Reasoning
 
 
-### Memory
+## Memory
 
-### Perception
+## Perception
 
-### World Model
+## World Model
 
-### Action
+## Action
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/action.jpg" alt="The action." width="100%">
 </div>
 
-### Reward
+## Reward
 
-### Emotion
+## Emotion
 
-## Self-Enhancement in Intelligent Agents
+# Self-Enhancement in Intelligent Agents
 
-## Collaborative and Evolutionary Intelligent Systems
+# Collaborative and Evolutionary Intelligent Systems
 
-## Building Safe and Beneficial AI
+# Building Safe and Beneficial AI
