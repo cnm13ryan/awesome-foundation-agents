@@ -49,6 +49,156 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Memory
 
+### 1. Representation
+
+#### 1.1 Sensory
+##### 1.1.1 Text-based
+- RecAgent (Wang et al., 2023)
+- CoPS (Zhou et al., 2024)
+- MemoryBank (Zhong et al., 2024)
+- Memory Sandbox (Huang et al., 2023)
+
+##### 1.1.2 Multi-modal
+- VideoAgent (Fan et al., 2024)
+- WorldGPT (Ge et al., 2024)
+- Agent S (Agashe et al., 2024)
+- OS-Copilot (Wu et al., 2024)
+- MuLan (Li et al., 2024)
+
+#### 1.2 Short-term
+##### 1.2.1 Context
+- MemGPT (Packer et al., 2023)
+- KARMA (Wang et al., 2024)
+- LSFS (Shi et al., 2024)
+- OSCAR (Wang et al., 2024)
+- RCI (Geunwoo et al., 2023)
+
+##### 1.2.2 Working
+- Generative Agent (Park et al., 2023)
+- RLP (Fischer et al., 2023)
+- CALYPSO (Zhu et al., 2023)
+- HiAgent (Hu et al., 2024)
+
+#### 1.3 Long-term
+##### 1.3.1 Semantic
+- AriGraph (Anokhin et al., 2024)
+- RecAgent (Wang et al., 2023)
+- HippoRAG (Gutierrez et al., 2024)
+
+##### 1.3.2 Episodic
+- MobileGPT (Lee et al., 2023)
+- MemoryBank (Zhong et al., 2024)
+- Episodic Verbalization (Barmann et al., 2024)
+- MrSteve (Park et al., 2024)
+
+##### 1.3.3 Procedural
+- AAG (Roth et al., 2024)
+- Cradle (Tan et al., 2024)
+- JARVIS-1 (Wang et al., 2024)
+- LARP (Yan et al., 2023)
+
+### 2. Lifecycle
+
+#### 2.1 Acquisition
+##### 2.1.1 Information Compression
+- HiAgent (Hu et al., 2024)
+- LMAgent (Liu et al., 2024)
+- ReadAgent (Lee et al., 2024)
+- M²WF (Wang et al., 2025)
+
+##### 2.1.2 Experience Consolidation
+- ExpeL (Zhao et al., 2024)
+- MindOS (Hu et al., 2025)
+- Vanschoren et al. (2018)
+- Hou et al. (2024)
+
+#### 2.2 Encoding
+##### 2.2.1 Selective Attention
+- AgentCorrd (Pan et al., 2024)
+- MS (Gao et al., 2024)
+- GraphVideoAgent (Chu et al., 2025)
+- A-MEM (Xu et al., 2025)
+- Ali et al. (2024)
+
+##### 2.2.2 Multi-modal Fusion
+- Optimus-1 (Li et al., 2024)
+- Optimus-2 (Li et al., 2025)
+- JARVIS-1 (Wang et al., 2024)
+
+#### 2.3 Derivation
+##### 2.3.1 Reflection
+- Agent S (Agashe et al., 2024)
+- OSCAR (Wang et al., 2024)
+- R2D2 (Huang et al., 2025)
+- Mobile-Agent-E (Wang et al., 2025)
+
+##### 2.3.2 Summarization
+- SummEdits (Laban et al., 2023)
+- SCM (Wang et al., 2023)
+- Healthcare Copilot (Ren et al., 2024)
+- Wang et al. (2023)
+
+##### 2.3.3 Knowledge Distillation
+- Knowagent (Zhu et al., 2024)
+- AoTD (Shi et al., 2024)
+- LDPD (Liu et al., 2024)
+- Sub-goal Distillation (Hashemzadeh et al., 2024)
+- MAGDi (Chen et al., 2024)
+
+##### 2.3.4 Selective Forgetting
+- Lyfe Agent (Kaiya et al., 2023)
+- TiM (Liu et al., 2023)
+- MemoryBank (Zhong et al., 2024)
+- S³ (Gao et al., 2023)
+- Hou et al. (2024)
+
+#### 2.4 Retrieval
+##### 2.4.1 Indexing
+- HippoRAG (Gutierrez et al., 2024)
+- TradingGPT (Li et al., 2023)
+- LongMemEval (Wu et al., 2024)
+- SeCom (Pan et al., 2025)
+
+##### 2.4.2 Matching
+- Product Keys (Lample et al., 2019)
+- OSAgent (Xu et al., 2024)
+- Bahdanau et al. (2014)
+- Hou et al. (2024)
+
+#### 2.5 Neural Memory
+##### 2.5.1 Associative Memory
+- Hopfield Networks (Demircigil et al., 2017; Ramsauer et al., 2020)
+- Neural Turing Machines (Falcon et al., 2022)
+
+##### 2.5.2 Parameter Integration
+- MemoryLLM (Wang et al., 2024)
+- SELF-PARAM (Wang et al., 2024)
+- MemoRAG (Qian et al., 2024)
+- TTT-Layer (Sun et al., 2024)
+- Titans (Behrouz et al., 2024)
+- R³Mem (Wang et al., 2025)
+
+#### 2.6 Utilization
+##### 2.6.1 RAG
+- RAGLAB (Zhang et al., 2024)
+- Adaptive Retrieval (Mallen et al., 2023)
+- Atlas (Farahani et al., 2024)
+- Yuan et al. (2025)
+
+##### 2.6.2 Long-context Modeling
+- RMT (Bulatov et al., 2022, 2023)
+- AutoCompressor (Chevalier et al., 2023)
+- ICAE (Ge et al., 2023)
+- Gist (Mu et al., 2024)
+- CompAct (Yoon et al., 2024)
+
+##### 2.6.3 Alleviating Hallucination
+- Lamini (Li et al., 2024)
+- Memoria (Park et al., 2023)
+- PEER (He et al., 2024)
+- Ding et al. (2024)
+
+
 ## Perception
 
 ## World Model
