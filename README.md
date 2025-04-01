@@ -307,6 +307,106 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/Perception.png" alt="Perception System" width="100%">
 </div>
 
+### Unimodal Models
+
+#### Text
+- BERT (Devlin et al., 2018)
+- RoBERTa (Liu et al., 2019)
+- ALBERT (Lan et al., 2019)
+
+#### Image
+- ResNet (He et al., 2016)
+- DETR (Carion et al., 2020)
+- Grounding DINO 1.5 (Ren et al., 2024)
+
+#### Video
+- ViViT (Arnab et al., 2021)
+- VideoMAE (Tong et al., 2022)
+
+#### Audio
+- FastSpeech 2 (Ren et al., 2020)
+- Seamless (Barrault et al., 2023)
+- wav2vec 2.0 (Baevski et al., 2020)
+
+#### Other Unimodal
+- Visual ChatGPT (Wu et al., 2023)
+- HuggingGPT (Shen et al., 2024)
+- MM-REACT (Yang et al., 2023)
+- ViperGPT (Suris et al., 2023)
+- AudioGPT (Huang et al., 2024)
+- LLaVA-Plus (Liu et al., 2025)
+
+### Cross-modal Models
+
+#### Text-Image
+- CLIP (Alec et al., 2021)
+- ALIGN (Jia et al., 2021)
+- DALL·E 3 (Betker et al., 2023)
+- VisualBERT (Li et al., 2019)
+
+#### Text-Video
+- VideoCLIP (Xu et al., 2021)
+- Phenaki (Villegas et al., 2022)
+- Make-A-Video (Singer et al., 2022)
+
+#### Text-Audio
+- Wav2CLIP (Wu et al., 2022)
+- VATT (Akbari et al., 2021)
+- AudioCLIP (Guzhov et al., 2022)
+
+#### Other Cross-modal
+- CLIP-Forge (Sanghi et al., 2022)
+- Point-E (Nichol et al., 2022)
+
+### MultiModal Models
+
+#### VLM (Vision-Language Models)
+- MiniGPT-v2 (Chen et al., 2023)
+- LLaVA-NeXT (Liu et al., 2024)
+- CogVLM2 (Hong et al., 2024)
+- Qwen2-VL (Wang et al., 2024)
+- Emu2 (Sun et al., 2024)
+
+##### Edge-Side VLM
+- TinyGPT-V (Yuan et al., 2023)
+- MobileVLM (Chu et al., 2023)
+- MiniCPM-V (Yao et al., 2024)
+- OmniParser (Lu et al., 2024)
+
+#### VLA (Vision-Language for Action)
+- CLIPort (Shridhar et al., 2022)
+- RT-1 (Brohan et al., 2022)
+- MOO (Stone et al., 2023)
+- PerAct (Shridhar et al., 2023)
+- Diffusion Policy (Chi et al., 2023)
+- PaLM-E (Driess et al., 2023)
+- MultiPLY (Hong et al., 2024)
+
+#### ALM (Audio-Language Models)
+- Audio Flamingo (Kong et al., 2024)
+- SpeechVerse (Das et al., 2024)
+- UniAudio 1.5 (Yang et al., 2024)
+- Qwen2-Audio (Chu et al., 2024)
+- Audio-LLM (Li et al., 2024)
+- Mini-Omni (Xie et al., 2024)
+- SpeechGPT (Zhang et al., 2023)
+
+#### AVLM (Audio-Visual-Language Models)
+- ONE-PEACE (Wang et al., 2023)
+- PandaGPT (Su et al., 2023)
+- Macaw-LLM (Lyu et al., 2023)
+- LanguageBind (Zhu et al., 2023)
+- UnIVAL (Shukor et al., 2023)
+- X-LLM (Chen et al., 2023)
+
+#### Other MultiModal
+- PointLLM (Xu et al., 2025)
+- MiniGPT-3D (Tang et al., 2024)
+- NExT-GPT (Wu et al., 2023)
+- Unified-IO 2 (Lu et al., 2024)
+- CoDi-2 (Tang et al., 2024)
+- ModaVerse (Wang et al., 2024)
+
 ## World Model
 
 ## Action
