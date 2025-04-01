@@ -830,3 +830,158 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/Safety.png" alt="Agent Intrinsic Safety" width="100%">
 </div>
+
+## Safety Threats
+
+### Jailbreak
+
+#### White-box Jailbreak
+- Yi et al. (2024)
+- GCG (Zou et al., 2023)
+- MAC (Zhang et al., 2024)
+- I-GCG (Jia et al., 2024)
+- Luo et al. (2024)
+- Li et al. (2024)
+- DROJ (Hu et al., 2024)
+- AutoDAN (Liu et al., 2023)
+- POEX (Lu et al., 2024)
+
+#### Black-box Jailbreak
+- Wei et al. (2023)
+- PAIR (Chao et al., 2023)
+- JAM (Jin et al., 2025)
+- Qi et al. (2024)
+- POEX (Lu et al., 2024)
+- AutoDAN (Liu et al., 2023)
+- GUARD (Jin et al., 2024)
+- HIMRD (Teng et al., 2024)
+- HTS (Gao et al., 2024)
+
+### Prompt Injection
+
+#### Direct Prompt Injection
+- Greshake et al. (2023)
+- Liu et al. (2024)
+- JudgeDeceive (Shi et al., 2024)
+- InjecAgent (Zhan et al., 2024)
+- Rehberger et al. (2024)
+- GHVPI (Kimura et al., 2024)
+- Debenedetti et al. (2024)
+- Schulhoff et al. (2023)
+
+#### Indirect Prompt Injection
+- Greshake et al. (2023)
+- HijackRAG (Zhang et al., 2025)
+- Clop and Teglia (2024)
+- PromptInfection (Lee et al., 2024)
+- PreferenceManipulationAttacks (Nestaas et al., 2024)
+
+### Hallucination
+
+#### Knowledge-conflict Hallucination
+- Ji et al. (2023)
+- McKenna et al. (2023)
+- Huang et al. (2023)
+- DELUCIONQA (Sadat et al., 2023)
+- Kang and Liu (2023)
+- MetaGPT (Hong et al., 2023)
+- Xu et al. (2024)
+- ERBench (Oh et al., 2024)
+
+#### Context-conflict Hallucination
+- TACS (Yu et al., 2024)
+- LanguageConfusionEntropy (Chen et al., 2024)
+- HaluEval-Wild (Zhu et al., 2024)
+- LURE (Zhou et al., 2023)
+- MARINE (Zhao et al., 2024)
+- Ranaldi and Pucci (2023)
+- HallusionBench (Guan et al., 2024)
+- DiaHalu (Chen et al., 2024)
+
+### Misalignment
+
+#### Goal-misguided Misalignment
+- Ji et al. (2023)
+- Krakovna et al. (2020)
+- Ngo et al. (2022)
+- SPPFT (Li et al., 2024)
+- ED (Zhou et al., 2024)
+- AgentHospital (Li et al., 2024)
+- Hammoud et al. (2024)
+
+#### Capability-misused Misalignment
+- Liu et al. (2023)
+- Wei et al. (2024)
+- Ji et al. (2023)
+- Qi et al. (2023)
+- BEB (Wolf et al., 2023)
+
+### Poisoning Attacks
+
+#### Model Poisoning
+- RIPPLe (Kurita et al., 2020)
+- BadEdit (Li et al., 2024)
+- Dong et al. (2023)
+- Obliviate (Kim et al., 2024)
+- Oh et al. (2024)
+- SecretCollusion (Motwani et al., 2024)
+- Miah and Bi (2024)
+
+#### Data Poisoning
+- Wan et al. (2023)
+- AgentPoison (Chen et al., 2025)
+- Poison-RAG (Nazary et al., 2025)
+- PoisonBench (Fu et al., 2024)
+- Chen et al. (2024)
+- Bowen et al. (2024)
+- BrieFool (He et al., 2024)
+- RLHF (Baumgartner et al., 2024)
+
+#### Backdoor Injection
+- Hubinger et al. (2024)
+- Wu et al. (2024)
+- BALD (Jiao et al., 2024)
+- Ge et al. (2024)
+- VPI (Yan et al., 2024)
+
+## Privacy Threats
+
+### Training Data Inference
+
+#### Membership Inference Attacks
+- Shokri et al. (2017)
+- Carlini et al. (2019)
+- Choquette et al. (2021)
+- SPV-MIA (Fu et al., 2023)
+- LiRA (Carlini et al., 2022)
+- MIA (Hu et al., 2022)
+
+#### Data Extraction Attacks
+- Carlini et al. (2021)
+- SCA (Bai et al., 2024)
+- Ethicist (Zhang et al., 2023)
+- Morris et al. (2023)
+- Pan et al. (2020)
+- Carlini et al. (2022)
+- Carlini et al. (2024)
+- More et al. (2024)
+
+### Interaction Data Inference
+
+#### System Prompt Stealing
+- PromptInject (Perez et al., 2022)
+- PromptStealingAttack (Shen et al., 2024)
+- PromptKeeper (Jiang et al., 2024)
+- InputSnatch (Zheng et al., 2024)
+- Zhang et al. (2023)
+- Wen et al. (2023)
+- Zhao et al. (2024)
+
+#### User Prompt Stealing
+- PRSA (Yang et al., 2024)
+- Agarwal et al. (2024)
+- Agarwal et al. (2024)
+- Liang et al. (2024)
+- PLeak (Hui et al., 2024)
+- Yona et al. (2024)
+- Output2Prompt (Zhang et al., 2024)
