@@ -58,6 +58,8 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/action.jpg" alt="The action." width="100%">
 </div>
 
+### Action Space:
+
 ### Language
 
 #### Text
@@ -72,19 +74,19 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 #### Code
 
-- **MetaGPT**, Details to be added
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework**, ICLR 2023, [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 
-- **ChatDev**, Details to be added
+- **ChatDev: Communicative Agents for Software Development**, ACL 2024, [[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/OpenBMB/ChatDev)]
 
-- **SWE-Agent**, Details to be added
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, NeurIPS 2025, [[paper](https://arxiv.org/abs/2405.15793)] [[code](https://github.com/SWE-agent/SWE-agent)]
 
-- **OpenDevin**, Details to be added
-
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2407.16741)] [[code](https://github.com/All-Hands-AI/OpenHands)]
+- 
 #### Chat
 
-- **Generative Agents**, Details to be added
+- **Generative Agents: Interactive Simulacra of Human Behavior**, UIST 2023, [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
 
-- **AutoGen**, Details to be added
+- **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation**, COLM 2024, [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
 
 ### Digital
 
@@ -158,7 +160,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 - **EmbodiedGPT**, Details to be added
 
-## Learning
+### Learning
 
 ### ICL (In-Context Learning)
 
