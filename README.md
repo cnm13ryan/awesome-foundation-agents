@@ -11,8 +11,8 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ✨✨✨ [Advances and Challenges in Foundation Agents]() (Paper)
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/brain.png" alt="The key of human brain." width="48%">
-    <img src="assets/agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
+    <img src="assets/1-brain.png" alt="The key of human brain." width="48%">
+    <img src="assets/1-agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
 </div>
 
 # Awesome Papers
@@ -36,7 +36,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ## Cognition
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/cognition.png" alt="Cognition System" width="100%">
+    <img src="assets/2-1-cognition.png" alt="Cognition System" width="100%">
 </div>
 
 ### Learning
@@ -139,7 +139,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Memory
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/memory.png" alt="Memory in Intelligence Agents" width="100%">
+    <img src="assets/2-2-memory.png" alt="Memory in Intelligence Agents" width="100%">
 </div>
 
 ### 1. Representation
@@ -294,7 +294,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Perception
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/perception.png" alt="Perception System" width="100%">
+    <img src="assets/2-3-perception.png" alt="Perception System" width="100%">
 </div>
 
 ### Unimodal Models
@@ -400,7 +400,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ## World Model
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/world_model.png" alt="World Model in Foundation Agents" width="100%">
+    <img src="assets/2-4-world_model.png" alt="World Model in Foundation Agents" width="100%">
 </div>
 
 ### External Approaches
@@ -433,7 +433,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Action
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/action.jpg" alt="The action." width="100%">
+    <img src="assets/2-5-action.jpg" alt="The action." width="100%">
 </div>
 
 ### Action Space:
@@ -644,7 +644,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Reward
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/reward.png" alt="Reward System" width="100%">
+    <img src="assets/2-6-reward.png" alt="Reward System" width="100%">
 </div>
 
 ### Extrinsic Reward
@@ -728,12 +728,12 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 # Self-Enhancement in Intelligent Agents
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/self_evo.png" alt="Self-evolution" width="100%">
+    <img src="assets/3-self_evo.png" alt="Self-evolution" width="100%">
 </div>
 
 # Collaborative and Evolutionary Intelligent Systems
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/llm_mas.png" alt="LLM-based Multi-Agent Systems" width="100%">
+    <img src="assets/4-llm_mas.png" alt="LLM-based Multi-Agent Systems" width="100%">
 </div>
 
 ## Application
@@ -853,7 +853,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 # Building Safe and Beneficial AI
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/Safety.png" alt="Agent Intrinsic Safety" width="100%">
+    <img src="assets/5-safety.png" alt="Agent Intrinsic Safety" width="100%">
 </div>
 
 ## Safety Threats
