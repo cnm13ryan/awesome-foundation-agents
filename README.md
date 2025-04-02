@@ -34,6 +34,11 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 # Core Components of Intelligent Agents
 
 ## Cognition
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/cognition.png" alt="Cognition System" width="100%">
+</div>
+
 ### Learning
 #### Space
 ##### Full
@@ -395,7 +400,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ## World Model
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/world_model.png" alt="Perception System" width="100%">
+    <img src="assets/world_model.png" alt="World Model in Foundation Agents" width="100%">
 </div>
 
 ### External Approaches
