@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-We maintains a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
+We maintain a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
 
 ## Our Works Towards Foundation Agents
 
@@ -861,152 +861,269 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 ### Jailbreak
 
 #### White-box Jailbreak
-- Yi et al. (2024)
-- GCG (Zou et al., 2023)
-- MAC (Zhang et al., 2024)
-- I-GCG (Jia et al., 2024)
-- Luo et al. (2024)
-- Li et al. (2024)
-- DROJ (Hu et al., 2024)
-- AutoDAN (Liu et al., 2023)
-- POEX (Lu et al., 2024)
+
+- **Jailbreak attacks and defenses against large language models: A survey**, arXiv 2024, [[paper](https://arxiv.org/abs/2407.04295)]
+  
+- **Universal and transferable adversarial attacks on aligned language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.15043)]
+  
+- **Boosting jailbreak attack with momentum**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.01229)]
+  
+- **Improved techniques for optimization-based jailbreaking on large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.21018)]
+  
+- **Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.10150)]
+  
+- **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering**, arXiv 2024, [[paper](https://arxiv.org/abs/2401.06824)]
+  
+- **DROJ: A Prompt-Driven Attack against Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.09125)]
+  
+- **Autodan: Generating stealthy jailbreak prompts on aligned large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.04451)]
+  
+- **POEX: Policy Executable Embodied AI Jailbreak Attacks**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.16633)]
+
 
 #### Black-box Jailbreak
-- Wei et al. (2023)
-- PAIR (Chao et al., 2023)
-- JAM (Jin et al., 2025)
-- Qi et al. (2024)
-- POEX (Lu et al., 2024)
-- AutoDAN (Liu et al., 2023)
-- GUARD (Jin et al., 2024)
-- HIMRD (Teng et al., 2024)
-- HTS (Gao et al., 2024)
+
+- **Jailbroken: How does LLM safety training fail?**, NeurIPS 2023, [[paper](https://papers.nips.cc/paper_files/paper/2023/hash/063b264250add1efdb3e3f7f5686b4e0-Abstract-Conference.html)]
+  
+- **Jailbreaking black box large language models in twenty queries**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.08419)]
+  
+- **Jailbreaking large language models against moderation guardrails via cipher characters**, NeurIPS 2024, [[paper](https://papers.nips.cc/paper_files/paper/2025/file/59408-59435-Abstract-Conference.html)]
+  
+- **Visual adversarial examples jailbreak aligned large language models**, AAAI 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29398)]
+  
+- **POEX: Policy Executable Embodied AI Jailbreak Attacks**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.16633)]
+  
+- **Autodan: Generating stealthy jailbreak prompts on aligned large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.04451)]
+  
+- **Guard: Role-playing to generate natural-language jailbreakings to test guideline adherence of large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.03299)]
+  
+- **Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.05934)]
+  
+- **Rt-attack: Jailbreaking text-to-image models via random token**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.13896)]
+  
 
 ### Prompt Injection
 
 #### Direct Prompt Injection
-- Greshake et al. (2023)
-- Liu et al. (2024)
-- JudgeDeceive (Shi et al., 2024)
-- InjecAgent (Zhan et al., 2024)
-- Rehberger et al. (2024)
-- GHVPI (Kimura et al., 2024)
-- Debenedetti et al. (2024)
-- Schulhoff et al. (2023)
+
+- **Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection**, AISec@CCS 2023, [[paper](https://dl.acm.org/doi/10.1145/3617415.3624610)
+  
+- **Automatic and universal prompt injection attacks against large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.04957)]
+  
+- **Optimization-based prompt injection attack to LLM-as-a-judge**, CCS 2024, [[paper](https://dl.acm.org/doi/10.1145/3636696.3654467)]
+  
+- **Benchmarking indirect prompt injections in tool-integrated large language model agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.02691)]
+  
+- **Trust No AI: Prompt Injection Along The CIA Security Triad**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.06090)]
+  
+- **Empirical analysis of large vision-language models against goal hijacking via visual prompt injection**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.03554)]
+  
+- **Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.07954)]
+  
+- **Ignore this title and HackAPrompt: Exposing systemic vulnerabilities of LLMs through a global prompt hacking competition**, EMNLP 2023, [[paper](https://aclanthology.org/2023.emnlp-main.316)]
+
 
 #### Indirect Prompt Injection
-- Greshake et al. (2023)
-- HijackRAG (Zhang et al., 2025)
-- Clop and Teglia (2024)
-- PromptInfection (Lee et al., 2024)
-- PreferenceManipulationAttacks (Nestaas et al., 2024)
+
+- **Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection**, AISec@CCS 2023, [[paper](https://dl.acm.org/doi/10.1145/3617415.3624610)]
+  
+- **HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language Models**, arXiv 2025, [[paper](https://arxiv.org/abs/2410.22832)]
+  
+- **Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.14479)]
+  
+- **Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.07283)]
+  
+- **Adversarial search engine optimization for large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.18382)]
 
 ### Hallucination
 
 #### Knowledge-conflict Hallucination
-- Ji et al. (2023)
-- McKenna et al. (2023)
-- Huang et al. (2023)
-- DELUCIONQA (Sadat et al., 2023)
-- Kang and Liu (2023)
-- MetaGPT (Hong et al., 2023)
-- Xu et al. (2024)
-- ERBench (Oh et al., 2024)
+
+- **Survey of hallucination in natural language generation**, ACM Computing Surveys 2023, [[paper](https://dl.acm.org/doi/10.1145/3571730)]
+  
+- **A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.05232)]
+  
+- **DELUCIONQA: Detecting Hallucinations in Domain-specific Question Answering**, Findings of EMNLP 2023, [[paper](https://aclanthology.org/2023.findings-emnlp.258)]
+  
+- **Deficiency of large language models in finance: An empirical examination of hallucination**, Failure Modes Workshop @ NeurIPS 2023, [[paper](https://openreview.net/forum?id=ywJqHknZKf)]
+  
+- **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework**, ICLR 2023, [[paper](https://openreview.net/forum?id=6vBvP6uLTQU)]
+  
+- **Hallucination is inevitable: An innate limitation of large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2401.11817)]
+  
+- **ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.05266)]
+
 
 #### Context-conflict Hallucination
-- TACS (Yu et al., 2024)
-- LanguageConfusionEntropy (Chen et al., 2024)
-- HaluEval-Wild (Zhu et al., 2024)
-- LURE (Zhou et al., 2023)
-- MARINE (Zhao et al., 2024)
-- Ranaldi and Pucci (2023)
-- HallusionBench (Guan et al., 2024)
-- DiaHalu (Chen et al., 2024)
+
+- **Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.07556)]
+  
+- **Large Language Models are Easily Confused: A Quantitative Metric, Security Implications and Typological Analysis**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.13237)]
+  
+- **HaluEval-Wild: Evaluating Hallucinations of Language Models in the Wild**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.04307)]
+  
+- **Analyzing and Mitigating Object Hallucination in Large Vision-Language Models**, ICLR 2023, [[paper](https://openreview.net/forum?id=2CeF2U2CFi)]
+  
+- **Mitigating object hallucination in large vision-language models via classifier-free guidance**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.08680)]
+  
+- **When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.09410)]
+  
+- **HallusionBench: an advanced diagnostic suite for entangled language hallucination and visual illusion in large vision-language models**, CVPR 2024, [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Guan_HallusionBench_An_Advanced_Diagnostic_Suite_for_Entangled_Language_Hallucination_and_CVPR_2024_paper.html)]
+  
+- **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.00896)]
+
 
 ### Misalignment
 
 #### Goal-misguided Misalignment
-- Ji et al. (2023)
-- Krakovna et al. (2020)
-- Ngo et al. (2022)
-- SPPFT (Li et al., 2024)
-- ED (Zhou et al., 2024)
-- AgentHospital (Li et al., 2024)
-- Hammoud et al. (2024)
+
+- **AI alignment: A comprehensive survey**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.19852)]
+  
+- **Specification Gaming: The Flip Side of AI Ingenuity**, DeepMind Blog 2020, [[paper](https://deepmind.google/discover/blog/specification-gaming-the-flip-side-of-ai-ingenuity/)]
+  
+- **The alignment problem from a deep learning perspective**, arXiv 2022, [[paper](https://arxiv.org/abs/2209.00626)]
+  
+- **Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.12343)]
+  
+- **Agent Alignment in Evolving Social Norms**, arXiv 2024, [[paper](https://arxiv.org/abs/2401.04620)]
+  
+- **Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.14563)]
+  
 
 #### Capability-misused Misalignment
-- Liu et al. (2023)
-- Wei et al. (2024)
-- Ji et al. (2023)
-- Qi et al. (2023)
-- BEB (Wolf et al., 2023)
+
+- **Trustworthy LLMs: A survey and guideline for evaluating large language models' alignment**, arXiv 2023, [[paper](https://arxiv.org/abs/2308.05374)]
+  
+- **Assessing the brittleness of safety alignment via pruning and low-rank modifications**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.05162)]
+  
+- **AI alignment: A comprehensive survey**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.19852)]
+  
+- **Fine-tuning aligned language models compromises safety, even when users do not intend to!**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.03693)]
+  
+- **Fundamental limitations of alignment in large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2304.11082)]
+  
+
 
 ### Poisoning Attacks
 
 #### Model Poisoning
-- RIPPLe (Kurita et al., 2020)
-- BadEdit (Li et al., 2024)
-- Dong et al. (2023)
-- Obliviate (Kim et al., 2024)
-- Oh et al. (2024)
-- SecretCollusion (Motwani et al., 2024)
-- Miah and Bi (2024)
+
+- **Weight poisoning attacks on pre-trained models**, ACL 2020, [[paper](https://aclanthology.org/2020.acl-main.495)]
+  
+- **Badedit: Backdooring large language models by model editing**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.13355)]
+  
+- **The philosopher's stone: Trojaning plugins of large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2312.00374)]
+  
+- **Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.14119)]
+  
+- **Poisoned ChatGPT finds work for idle hands: Exploring developers’ coding practices with insecure suggestions from poisoned AI models**, IEEE S&P 2024, [[paper](https://ieeexplore.ieee.org/document/10432536)
+  
+- **Secret Collusion Among Generative AI Agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.07510)]
+  
+- **Exploiting the Vulnerability of Large Language Models via Defense-Aware Architectural Backdoor**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.01952)]
+  
+
 
 #### Data Poisoning
-- Wan et al. (2023)
-- AgentPoison (Chen et al., 2025)
-- Poison-RAG (Nazary et al., 2025)
-- PoisonBench (Fu et al., 2024)
-- Chen et al. (2024)
-- Bowen et al. (2024)
-- BrieFool (He et al., 2024)
-- RLHF (Baumgartner et al., 2024)
+
+- **Poisoning language models during instruction tuning**, ICML 2023, [[paper](https://proceedings.mlr.press/v202/wan23b.html)]
+  
+- **Agentpoison: Red-teaming LLM agents via poisoning memory or knowledge bases**, NeurIPS 2025, [[paper](https://papers.nips.cc/paper_files/paper/2025/hash/130185-130213-Abstract-Conference.html)]
+  
+- **Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems**, arXiv 2025, [[paper](https://arxiv.org/abs/2501.11759)]
+  
+- **PoisonBench: Assessing Large Language Model Vulnerability to Data Poisoning**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.08811)]
+  
+- **The dark side of human feedback: Poisoning large language models via user inputs**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.00787)]
+  
+- **Scaling laws for data poisoning in LLMs**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.02946)]
+  
+- **Talk too much: Poisoning large language models under token limit**, arXiv 2024, [[paper](https://arxiv.org/abs/2404.14795)]
+  
+- **Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data**, arXiv 2024, [[paper](https://arxiv.org/abs/2404.05530)]
+
 
 #### Backdoor Injection
-- Hubinger et al. (2024)
-- Wu et al. (2024)
-- BALD (Jiao et al., 2024)
-- Ge et al. (2024)
-- VPI (Yan et al., 2024)
+
+- **Sleeper agents: Training deceptive LLMs that persist through safety training**, arXiv 2024, [[paper](https://arxiv.org/abs/2401.05566)]
+  
+- **Wipi: A new web threat for LLM-driven web agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.09875)]
+  
+- **Exploring backdoor attacks against large language model-based decision making**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.20774)]
+  
+- **When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.12701)]
+  
+- **Backdooring instruction-tuned large language models with virtual prompt injection**, NAACL 2024, [[paper](https://aclanthology.org/2024.naacl-long.338)]
+
 
 ## Privacy Threats
 
 ### Training Data Inference
 
 #### Membership Inference Attacks
-- Shokri et al. (2017)
-- Carlini et al. (2019)
-- Choquette et al. (2021)
-- SPV-MIA (Fu et al., 2023)
-- LiRA (Carlini et al., 2022)
-- MIA (Hu et al., 2022)
+
+- **Membership inference attacks against machine learning models**, IEEE S&P 2017, [[paper](https://ieeexplore.ieee.org/document/7958568)]
+  
+- **The secret sharer: Evaluating and testing unintended memorization in neural networks**, USENIX Security 2019, [[paper](https://www.usenix.org/conference/usenixsecurity19/presentation/carlini)]
+  
+- **Label-only membership inference attacks**, ICML 2021, [[paper](https://proceedings.mlr.press/v139/choquette-choo21a.html)]
+  
+- **Practical membership inference attacks against fine-tuned large language models via self-prompt calibration**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.06062)]
+  
+- **Membership inference attacks from first principles**, IEEE S&P 2022, [[paper](https://ieeexplore.ieee.org/document/9833683)]
+  
+- **Membership inference attacks on machine learning: A survey**, ACM Computing Surveys 2022, [[paper](https://dl.acm.org/doi/10.1145/3505244)]
+
 
 #### Data Extraction Attacks
-- Carlini et al. (2021)
-- SCA (Bai et al., 2024)
-- Ethicist (Zhang et al., 2023)
-- Morris et al. (2023)
-- Pan et al. (2020)
-- Carlini et al. (2022)
-- Carlini et al. (2024)
-- More et al. (2024)
+
+- **Extracting training data from large language models**, USENIX Security 2021, [[paper](https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting)]
+  
+- **Special characters attack: Toward scalable training data extraction from large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.05990)]
+  
+- **Ethicist: Targeted training data extraction through loss smoothed soft prompting and calibrated confidence estimation**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.04401)]
+  
+- **Language model inversion**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.13647)]
+  
+- **Privacy risks of general-purpose language models**, IEEE S&P 2020, [[paper](https://ieeexplore.ieee.org/document/9152683)]
+  
+- **Quantifying memorization across neural language models**, arXiv 2022, [[paper](https://arxiv.org/abs/2202.07646)]
+  
+- **Stealing part of a production language model**, arXiv 2024, [[paper](https://arxiv.org
+
 
 ### Interaction Data Inference
 
 #### System Prompt Stealing
-- PromptInject (Perez et al., 2022)
-- PromptStealingAttack (Shen et al., 2024)
-- PromptKeeper (Jiang et al., 2024)
-- InputSnatch (Zheng et al., 2024)
-- Zhang et al. (2023)
-- Wen et al. (2023)
-- Zhao et al. (2024)
+
+- **Ignore previous prompt: Attack techniques for language models**, TSRML@NeurIPS 2022, [[paper](https://arxiv.org/abs/2211.09597)]
+  
+- **Prompt Stealing Attacks Against Text-to-Image Generation Models**, USENIX Security 2024, [[paper](https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue)]
+  
+- **Safeguarding System Prompts for LLMs**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.13426)]
+  
+- **InputSnatch: Stealing Input in LLM Services via Timing Side-Channel Attacks**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.18191)]
+  
+- **Effective prompt extraction from language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.06865)]
+  
+- **Last one standing: A comparative analysis of security and privacy of soft prompt tuning, lora, and in-context learning**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.11397)]
+  
+- **LLM app store analysis: A vision and roadmap**, ACM TOSEM 2024, [[paper](https://dl.acm.org/doi/abs/10.1145/3657416)]
+
 
 #### User Prompt Stealing
-- PRSA (Yang et al., 2024)
-- Agarwal et al. (2024)
-- Agarwal et al. (2024)
-- Liang et al. (2024)
-- PLeak (Hui et al., 2024)
-- Yona et al. (2024)
-- Output2Prompt (Zhang et al., 2024)
+
+- **Prsa: Prompt reverse stealing attacks against large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.07870)]
+  
+- **Prompt Leakage effect and defense strategies for multi-turn LLM interactions**, arXiv 2024, [[paper](https://arxiv.org/abs/2404.16251)]
+  
+- **Investigating the prompt leakage effect and black-box defenses for multi-turn LLM interactions**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.06770)]
+  
+- **Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.02416)]
+  
+- **Pleak: Prompt leaking attacks against large language model applications**, CCS 2024, [[paper](https://dl.acm.org/doi/10.1145/3644473.3665630)]
+  
+- **Stealing User Prompts from Mixture of Experts**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.22884)]
+  
+- **Extracting Prompts by Inverting LLM Outputs**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.15012)]
+
