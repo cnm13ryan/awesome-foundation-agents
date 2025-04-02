@@ -15,8 +15,6 @@ We maintains a curated collection of papers exploring the path towards Foundatio
     <img src="assets/agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
 </div>
 
-
-
 # Awesome Papers
 
 <font size=5><center><b> Table of Contents </b> </center></font>
@@ -33,120 +31,110 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - [Building Safe and Beneficial AI](#building-safe-and-beneficial-ai)
 
 
-* 🔥 **[MetaGPT](https://github.com/geekan/MetaGPT)** - *DeepWisdom, Jan 2025*  
-  [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://openreview.net/forum?id=VtmBAGCN7o)
-  [![Star](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=social&label=Star)](https://github.com/geekan/MetaGPT)
-  [![Code](https://img.shields.io/badge/Code-Github-green)](https://github.com/geekan/MetaGPT)
-  [![Demo](https://img.shields.io/badge/Demo-HuggingFace-blue)]()  
-  > The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-
 # Core Components of Intelligent Agents
 
 ## Cognition
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/Cognition.png" alt="Cognition System" width="100%">
-</div>
-
 ### Learning
 #### Space
 ##### Full
-- SFT (Wei et al., 2021)
-- PEFT (Houlsby et al., 2019)
-- RLHF (Ouyang et al., 2022)
-- ReFT (Luong et al., 2024)
-- Agentic Models (Song et al., 2025)
+- **Add SFT,RLHF,PEFT**
+- **ReFT: Reasoning with Reinforced Fine-Tuning**, arxiv 2024, [[paper]()] [[code]()]
+- **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
+
 
 ##### Partial
-- CoT (Wei et al., 2022)
-- Voyager (Wang et al., 2023)
-- Reflexion (Shinn et al., 2023)
-- ActRe (Yang et al., 2024)
-- Generative Agents (Park et al., 2023)
+- **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**, Wei et al. 2022, [[paper](https://arxiv.org/abs/2201.11903)] [[code]()]
+- **Voyager: An Open-Ended Embodied Agent with Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2305.16291)] [[code]()]
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)] [[code]()]
+- **ReAct meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.14589)] [[code]()]
+- **Generative Agents: Interactive Simulacra of Human Behavior**, ACM UIST 2023, [[paper](https://arxiv.org/abs/2304.03442)] [[code]()]
 
 #### Objective
 ##### Perception
-- CLIP (Alec et al., 2021)
-- LLaVA (Liu et al., 2023)
-- CogVLM (Wang et al., 2025)
-- Qwen-Audio (Chu et al., 2024)
-- R1-Searcher (Song et al., 2025)
-- Search-R1 (Jin et al., 2025)
+- **CLIP: Learning Transferable Visual Models from Natural Language Supervision**, ICML 2021, [[paper](https://arxiv.org/abs/2103.00020)] [[code]()]
+- **LLaVA: Visual Instruction Tuning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2304.08485)] [[code]()]
+- **CogVLM: Visual Expert for Pretrained Language Models**, NeurIPS 2025, [[paper](https://arxiv.org/abs/2311.03079)] [[code]()]
+- **Qwen2-Audio Technical Report**, arxiv 2024, [[paper]()] [[code]()]
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
+
 
 ##### Reasoning
-- SKY-32B (2025)
-- Open Thoughts
-- LIMO (Ye et al., 2025)
-- STaR (Zelikman et al., 2022)
-- ReST (Gulcehre et al., 2023)
-- OpenR (Wang et al., 2024)
-- LLaMA-Berry (Zhang et al., 2024)
-- RAGEN (Wang et al., 2025)
-- OpenR1 (2024)
+- **SKY-T1: Train Your Own o1 Preview Model Within $450**, 2025, [[paper]()] [[code]()]
+- **Open Thoughts**, 2025, [[paper]()] [[code]()]
+- **LIMO: Less is More for Reasoning**, arxiv 2025, [[paper]()] [[code]()]
+- **STaR: Bootstrapping Reasoning with Reasoning**, arxiv 2022, [[paper]()] [[code]()]
+- **ReST: Reinforced Self-Training for Language Modeling**, arxiv 2023, [[paper](https://arxiv.org/abs/2308.08998)] [[code]()]
+- **OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models**, arxiv 2024, [[paper]()] [[code]()]
+- **LLaMA-Berry: Pairwise Optimization for o1-like Olympiad-level Mathematical Reasoning**, arxiv 2024, [[paper]()] [[code]()]
+- **RAGEN: Training Agents by Reinforcing Reasoning**, arxiv 2025, [[paper]()] [[code]()]
+- **Open-R1**, 2024, [[paper]()] [[code]()]
 
 ##### World
-- Inner Monologue (Huang et al., 2023)
-- DESP (Wang et al., 2023)
-- Self-refine (Madaan et al., 2024)
-- CRITIC (Gou et al.)
-- Reflexion (Shinn et al., 2023)
-- ExpeL (Zhao et al., 2024)
+- **Inner Monologue: Embodied Reasoning through Planning with Language Models**, CoRL 2023, [[paper](https://arxiv.org/abs/2207.05608)] [[code]()]
+- **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2303.17651)] [[code]()]
+- **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)] [[code]()]
+- **ExpeL: LLM Agents Are Experiential Learners**, AAAI 2024, [[paper](https://arxiv.org/abs/2308.10144)] [[code]()]
+- **AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.16247)] [[code]()]
+- **ReAct meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.14589)] [[code]()]
 
 ### Reasoning
 #### Structured
 ##### Dynamic
-- ReAct (Yao et al., 2022)
-- MCoT (Yang et al., 2024)
-- ToT (Yao et al.)
-- LATS (Zhou et al., 2024)
-- RAP (Hao et al., 2023)
-- GoT (Besta et al., 2023)
-- PoT (Zhang et al., 2024)
-- DoT (Zhang et al., 2024)
+- **ReAct: Synergizing Reasoning and Acting in Language Models**, arxiv 2022, [[paper](https://arxiv.org/abs/2210.03629)] [[code]()]
+- **Markov Chain of Thought for Efficient Mathematical Reasoning**, arxiv 2024, [[paper]()] [[code]()]
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)] [[code]()]
+- **Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models**, ICML 2024, [[paper](https://arxiv.org/abs/2310.04406)] [[code]()]
+- **Reasoning via Planning (RAP): Improving Language Models with World Models**, EMNLP 2023, [[paper](https://arxiv.org/abs/2305.14992)] [[code]()]
+- **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2023, [[paper](https://arxiv.org/abs/2308.09687)] [[code]()]
+- **Path of Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**, arxiv 2024, [[paper]()] [[code]()]
+- **On the Diagram of Thought**, arxiv 2024, [[paper]()] [[code]()]
 
 ##### Static
-- Self-Consistency (Wang et al., 2023)
-- Self-refine (Madaan et al., 2024)
-- PHP (Zheng et al., 2023)
-- Self-Verification (Stechly et al., 2024)
-- CoVe (Dhuliawala et al., 2024)
+- **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2203.11171)] [[code]()]
+- **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2303.17651)] [[code]()]
+- **Progressive-Hint Prompting Improves Reasoning in Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2304.09797)] [[code]()]
+- **On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks**, arxiv 2024, [[paper]()] [[code]()]
+- **Chain-of-Verification Reduces Hallucination in Large Language Models**, ICLR 2024 Workshop, [[paper](https://arxiv.org/abs/2309.11495)] [[code]()]
+
 
 ##### Domain
-- MathPrompter (Imani et al., 2023)
-- PedCoT (Jiang et al., 2024)
-- Physics Reasoner (Pang et al., 2025)
+- **MathPrompter: Mathematical Reasoning Using Large Language Models**, ACL 2023, [[paper](https://arxiv.org/abs/2303.05398)] [[code]()]
+- **LLMs Can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought**, arxiv 2024, [[paper]()] [[code]()]
+- **Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models**, COLING 2025, [[paper]()] [[code]()]
+
 
 #### Unstructured
 ##### Prompt
-- CoT (Wei et al., 2022)
-- Step-Back (Zheng et al.)
-- Ask Me Anything (Arora et al., 2022)
-- CoK (Li et al., 2023)
-- SEK (Fan et al., 2024)
+- **Chain of Thought Prompting Elicits Reasoning in Large Language Models**, NeurIPS 2022, [[paper](https://arxiv.org/abs/2201.11903)] [[code]()]
+- **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, ICLR 2024, [[paper](https://arxiv.org/abs/2310.06117)] [[code]()]
+- **Ask Me Anything: A Simple Strategy for Prompting Language Models**, arxiv 2022, [[paper](https://arxiv.org/abs/2210.02441)] [[code]()]
+- **Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources**, arxiv 2023, [[paper](https://arxiv.org/abs/2305.13269)] [[code]()]
+- **Self-Explained Keywords Empower Large Language Models for Code Generation**, arxiv 2024, [[paper]()] [[code]()]
+
 
 ##### Model
-- DeepSeek-R1 (Guo et al., 2025)
-- Claude 3.7 Sonnet (Anthropic, 2023)
-- o1 (Jaech et al., 2024)
+- **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
+- **Claude 3.7 Sonnet**, 2025, [[paper]()] [[code]()]
+- **OpenAI o1 System Card**, arxiv 2024, [[paper]()] [[code]()]
 
 ##### Implicit
-- Quiet-STaR (Zelikman et al., 2024)
-- Coconut (Hao et al., 2024)
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.09629)] [[code]()]
+- **Chain of Continuous Thought (Coconut): Training Large Language Models to Reason in a Continuous Latent Space**, arxiv 2024, [[paper]()] [[code]()]
+
 
 #### Planning
-- DEPS (Wang et al., 2023)
-- ProgPrompt (Singh et al., 2023)
-- ADaPT (Prasad et al., 2023)
-- ToT (Yao et al.)
-- RAP (Hao et al., 2023)
-- TravelPlanner (Xie et al., 2024)
-- PDDL (McDermott et al., 1998)
-- Mind2Web (Deng et al., 2024)
-
-
+- **Describe, Explain, Plan and Select (DEPS): Interactive Planning with Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2302.01560)] [[code]()]
+- **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models**, ICRA 2023, [[paper](https://arxiv.org/abs/2209.11302)] [[code]()]
+- **ADAPT: As-Needed Decomposition and Planning with Language Models**, arxiv 2023, [[paper]()] [[code]()]
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)] [[code]()]
+- **Reasoning via Planning (RAP): Improving Language Models with World Models**, EMNLP 2023, [[paper](https://arxiv.org/abs/2305.14992)] [[code]()]
+- **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**, ICML 2024, [[paper](https://arxiv.org/abs/2402.01622)] [[code]()]
+- **PDDL—The Planning Domain Definition Language**, 1998, [[paper](https://arxiv.org/abs/1106.4561)] [[code]()]
+- **Mind2Web: Towards a Generalist Agent for the Web**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2306.06070)] [[code]()]
 
 ## Memory
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/Memory.png" alt="Memory in Intelligence Agents" width="100%">
+    <img src="assets/memory.png" alt="Memory in Intelligence Agents" width="100%">
 </div>
 
 ### 1. Representation
@@ -301,7 +289,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Perception
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/Perception.png" alt="Perception System" width="100%">
+    <img src="assets/perception.png" alt="Perception System" width="100%">
 </div>
 
 ### Unimodal Models
@@ -405,6 +393,38 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 - ModaVerse (Wang et al., 2024)
 
 ## World Model
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/world_model.png" alt="Perception System" width="100%">
+</div>
+
+### External Approaches
+**DINO-WM [358]: Video World Models on Pre-trained Visual Features Enable Zero-Shot Planning**, arxiv 2024, [[paper](https://arxiv.org/abs/2411.04983)], [[code][]]
+
+**SAPIEN [351]: A Simulated Part-based Interactive Environment**, CVPR 2020, [[paper](https://arxiv.org/abs/2003.08515)], [[code][]]
+
+**MuZero [349]: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model**, Nature 2020, [[paper](https://www.nature.com/articles/s41586-020-03051-4)], [[code][]]
+
+**GR-2 [357]: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.06158)], [[code][]]
+
+**COAT [356]: Discovery of the Hidden World with Large Language Models**, arxiv 2024, [[paper](https://arxiv.org/abs/2402.03941)], [[code][]]
+
+**AutoManual [108]: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.16247)], [[code][]]
+
+**PILCO [355]: A Model-Based and Data-Efficient Approach to Policy Search**, ICML 2011, [[paper]()], [[code][]]
+
+### Internal Approaches
+**ActRe [49]: ReAct meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.14589)], [[code][]]
+
+**World Models [348]: World Models**, NeurIPS 2018, [[paper](https://arxiv.org/abs/1803.10122)], [[code][]]
+
+**Dreamer [350]: Dream to Control: Learning Behaviors by Latent Imagination**, ICLR 2020, [[paper](https://arxiv.org/abs/1912.01603)], [[code][]]
+
+**Diffusion WM [353]: Diffusion for World Modeling: Visual Details Matter in Atari**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.12399)], [[code][]]
+
+**GQN [354]: Neural Scene Representation and Rendering**, Science 2018, [[paper]()], [[code][]]
+
+**Daydreamer [352]: World Models for Physical Robot Learning**, CoRL 2023, [[paper]()], [[code][]]
 
 ## Action
 <div style="display: flex; justify-content: space-between;">
@@ -619,7 +639,7 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 ## Reward
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/Reward.png" alt="Reward System" width="100%">
+    <img src="assets/reward.png" alt="Reward System" width="100%">
 </div>
 
 ### Extrinsic Reward
@@ -703,12 +723,12 @@ We maintains a curated collection of papers exploring the path towards Foundatio
 
 # Self-Enhancement in Intelligent Agents
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/Self_Evo.png" alt="Self-evolution" width="100%">
+    <img src="assets/self_evo.png" alt="Self-evolution" width="100%">
 </div>
 
 # Collaborative and Evolutionary Intelligent Systems
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/LLM-MAS.png" alt="LLM-based Multi-Agent Systems" width="100%">
+    <img src="assets/llm_mas.png" alt="LLM-based Multi-Agent Systems" width="100%">
 </div>
 
 ## Application
