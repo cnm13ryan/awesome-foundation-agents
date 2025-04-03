@@ -729,6 +729,44 @@ We maintain a curated collection of papers exploring the path towards Foundation
     <img src="assets/3-self_evo.png" alt="Self-evolution" width="100%">
 </div>
 
+
+## Scientific Knowledge Discovery
+
+### Hypothesis Generation and Testing
+
+- **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.04109)] 
+
+- **SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning**, Advanced Materials 2024, [[paper](https://doi.org/10.1002/adma.202413523)] 
+
+- **Genesis: Towards the Automation of Systems Biology Research**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.04109)] 
+
+- **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.06292)] 
+
+- **Agent Laboratory: Using LLM Agents as Research Assistants**, arXiv 2025, [[paper](https://arxiv.org/abs/2501.04227)] 
+
+- **ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning**, arXiv 2025, [[paper](https://arxiv.org/abs/2501.06590)] 
+
+- **ChemOS 2.0: An orchestration architecture for chemical self-driving laboratories**, Matter 2024, [[paper](https://doi.org/10.1016/j.matt.2024.04.022)] 
+
+- **Towards an AI co-scientist**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.18864)] 
+
+### Protocol Planning and Tool Innovation
+
+- **Autonomous mobile robots for exploratory synthetic chemistry**, Nature 2024, [[paper](https://doi.org/10.1038/s41586-024-08173-7)] 
+
+- **Delocalized, asynchronous, closed-loop discovery of organic laser emitters**, Science 2024, [[paper](https://doi.org/10.1126/science.adk9227)] 
+
+- **The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation**, bioRxiv 2024, [[paper](https://doi.org/10.1101/2024.11.11.623004)] 
+
+### Data Analysis and Implication Derivation
+
+- **Solving olympiad geometry without human demonstrations**, Nature 2024, [[paper](https://doi.org/10.1038/s41586-023-06747-5)] 
+
+- **Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.12391)] 
+
+- **Data Interpreter: An LLM Agent For Data Science**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.18679)] 
+
+
 # Collaborative and Evolutionary Intelligent Systems
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/4-llm_mas.png" alt="LLM-based Multi-Agent Systems" width="100%">
