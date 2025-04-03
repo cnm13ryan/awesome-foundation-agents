@@ -558,31 +558,31 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Decompose
 
-- **Least-to-Most**, Details to be added
+- **Least-to-Most: Least-to-Most Prompting Enables Complex Reasoning in Large Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2205.10625)]
 
-- **HuggingGPT**, Details to be added
+- **HuggingGPT: Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
 
-- **Plan-and-Solve**, Details to be added
+- **Plan-and-Solve: Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models**, ACL 2023, [[paper](https://arxiv.org/abs/2305.04091)] [[code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)]
 
-- **ProgPrompt**, Details to be added
+- **ProgPrompt: Progprompt: Generating situated robot task plans using large language models**, ICRA 2023, [[paper](https://arxiv.org/abs/2209.11302)] [[project](https://progprompt.github.io/)]
 
 #### Role-play
 
-- **Generative Agents**, Details to be added
+- **Generative Agents: Generative agents: Interactive simulacra of human behavio**, arXiv 2023, [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
 
-- **MetaGPT**, Details to be added
+- **MetaGPT: Meta{GPT}: Meta Programming for Multi-Agent Collaborative Framework**, ICLR 2023, [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
 
-- **ChatDev**, Details to be added
+- **ChatDev: ChatDev: Communicative Agents for Software Development**, ACL 2024, [[paper](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/OpenBMB/ChatDev)]
 
-- **SWE-Agent**, Details to be added
+- **SWE-Agent: SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.15793)] [[project](https://swe-agent.com/latest/)]
 
 #### Refine
 
-- **Reflexion**, arXiv, 2023 [[paper](https://arxiv.org/abs/2303.11366)]
+- **Reflexion: Reflexion: language agents with verbal reinforcement learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn/reflexion)]
 
-- **Self-refine**, Details to be added
+- **Self-refine: Self-refine: Iterative refinement with self-feedback**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2303.17651)] [[code](https://github.com/madaan/self-refine)]
 
-- **GPTSwarm**, Details to be added
+- **GPTSwarm: GPTSwarm: Language Agents as Optimizable Graphs**, ICML 2024, [[paper](https://arxiv.org/pdf/2402.16823v3)] [[project](https://gptswarm.org/)]
 
 ### PT & SFT (Pre-Training & Supervised Fine-Tuning)
 
