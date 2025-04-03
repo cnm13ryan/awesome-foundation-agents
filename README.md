@@ -554,6 +554,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 - **GoT: Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2023, [[paper](https://arxiv.org/abs/2308.09687)] [[code](https://github.com/spcl/graph-of-thoughts)]
 
+- **LearnAct: Empowering Large Language Model Agents through Action Learning**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.15809)] [[code](https://github.com/zhao-ht/LearnAct)]
+
 - **CoA: Improving Multi-Agent Debate with Sparse Communication Topology**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.11776)]
 
 #### Decompose
@@ -588,59 +590,55 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Pre-Train
 
-- **RT-1**, Details to be added
+- **RT-1: RT-1: Robotics Transformer for Real-World Control at Scale**, arXiv 2022, [[paper](https://arxiv.org/abs/2212.06817)] [[project](https://robotics-transformer1.github.io/)]
 
-- **RT-2**, Details to be added
+- **RT-2: RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.15818)] [[project](https://robotics-transformer2.github.io/)]
 
-- **RT-X**, Details to be added
+- **RT-X: Open x-embodiment: Robotic learning datasets and rt-x models**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.08864)] [[project](https://robotics-transformer-x.github.io/)]
 
-- **GR-2**, Details to be added
+- **GR-2: GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.06158)] [[project](https://gr2-manipulation.github.io/)]
 
-- **LAM**, Details to be added
+- **LAM: Large Action Models: From Inception to Implementation**, arXiv 2024, [[paper](https://arxiv.org/abs/2412.10047)] [[code](https://github.com/microsoft/UFO/tree/main/dataflow)]
 
 #### SFT
 
-- **LearnAct**, Details to be added
+- **CogACT: CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.19650)] [[project](https://cogact.github.io/)]
 
-- **CogACT**, Details to be added
+- **RT-H: RT-H: Action Hierarchies Using Language**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.01823)] [[project](https://rt-hierarchy.github.io/)]
 
-- **RT-H**, Details to be added
+- **OpenVLA: OpenVLA: An Open-Source Vision-Language-Action Model**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.09246)] [[project](https://openvla.github.io/)]
 
-- **OpenVLA**, Details to be added
+- **$\pi_0$: $\pi_0$: A Vision-Language-Action Flow Model for General Robot Control**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.24164)] [[project](https://www.physicalintelligence.company/blog/pi0)]
 
-- **GR-2**, Details to be added
-
-- **πo**, Details to be added
-
-- **UniAct**, Details to be added
+- **UniAct: Universal Actions for Enhanced Embodied Foundation Models**, CVPR 2025, [[paper](https://arxiv.org/abs/2501.10105)] [[code](https://github.com/2toinf/UniAct)]
 
 ### RL (Reinforcement Learning)
 
-- **RLHF**, Details to be added
+- **RLHF: Training language models to follow instructions with human feedback**, NeurIPS 2022, [[paper](https://arxiv.org/pdf/2203.02155)]
 
-- **DPO**, Details to be added
+- **DPO: Direct preference optimization: Your language model is secretly a reward model**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.18290)]
 
-- **RLFP**, Details to be added
+- **RLFP: Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own**, CoRL 2024, [[paper](https://arxiv.org/abs/2310.02635)] [[project](https://yewr.github.io/rlfp/)]
 
-- **ELLM**, Details to be added
+- **ELLM: Guiding pretraining in reinforcement learning with large language models**, ICML 2023, [[paper](https://arxiv.org/abs/2302.06692)] [[code](https://github.com/yuqingd/ellm)]
 
-- **GenSim**, Details to be added
+- **GenSim: Gensim: Generating robotic simulation tasks via large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.01361)] [[project](https://gen-sim.github.io/)]
 
-- **LEA**, Details to be added
+- **LEA: Reinforcement learning-based recommender systems with large language models for state reward and action modeling**, ACM 2024, [[paper](https://arxiv.org/abs/2403.16948)]
 
-- **MLAQ**, Details to be added
+- **MLAQ: Empowering LLM Agents with Zero-Shot Optimal Decision-Making through Q-learning**, ICLR 2025, [[paper](https://arxiv.org/abs/2502.11211)]
 
-- **KALM**, Details to be added
+- **KALM: KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2404.09248)] [[project](https://kalmneurips2024.github.io/)]
 
-- **When2Ask**, Details to be added
+- **When2Ask: Enabling intelligent interactions between an agent and an LLM: A reinforcement learning approach**, RLC 2024, [[paper](https://arxiv.org/abs/2306.03604)]
 
-- **Eureka**, Details to be added
+- **Eureka: Eureka: Human-level reward design via coding large language models**, ICLR 2024, [[paper](https://arxiv.org/abs/2310.12931)] [[project](https://eureka-research.github.io/)]
 
-- **ArCHer**, Details to be added
+- **ArCHer: ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.19446)] [[project](https://yifeizhou02.github.io/archer.io/)]
 
-- **LLaRP**, Details to be added
+- **LLaRP: Large Language Models as Generalizable Policies for Embodied Tasks**, ICLR 2024, [[paper](https://arxiv.org/abs/2310.17722)] [[project](https://llm-rl.github.io/)]
 
-- **GPTSwarm**, Details to be added
+- **GPTSwarm: GPTSwarm: Language Agents as Optimizable Graphs**, ICML 2024, [[paper](https://arxiv.org/abs/2402.16823)] [[project](https://gptswarm.org/)]
 
 ## Reward
 <div style="display: flex; justify-content: space-between;">
