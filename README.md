@@ -544,17 +544,17 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Prompt
 
-- **CoT**, Details to be added
+- **CoT: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**, NeurIPS 2022, [[paper](https://arxiv.org/abs/2201.11903)]
 
-- **ReAct**, arXiv, 2022 [[paper](https://arxiv.org/abs/2210.03629)]
+- **ReAct: React: Synergizing reasoning and acting in language models**, arXiv 2022, [[paper](https://arxiv.org/abs/2210.03629)] [[project](https://react-lm.github.io/)]
 
-- **Auto-CoT**, Details to be added
+- **Auto-CoT: Automatic Chain of Thought Prompting in Large Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2210.03493)] [[code](https://github.com/amazon-science/auto-cot)]
 
-- **ToT**, Details to be added
+- **ToT: Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)] [[code](https://github.com/princeton-nlp/tree-of-thought-llm)]
 
-- **GoT**, Details to be added
+- **GoT: Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2023, [[paper](https://arxiv.org/abs/2308.09687)] [[code](https://github.com/spcl/graph-of-thoughts)]
 
-- **CoA**, Details to be added
+- **CoA: Improving Multi-Agent Debate with Sparse Communication Topology**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.11776)]
 
 #### Decompose
 
