@@ -760,18 +760,10 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Offline Optimization
 
+
 ### Scientific Knowledge Discovery
 
-#### Hypothesis generation and testing
-
-#### Protocol planning and tool innovation 
-
-#### Data analysis and implication derivation
-
-
-## Scientific Knowledge Discovery
-
-### Hypothesis Generation and Testing
+#### Hypothesis Generation and Testing
 
 - **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.04109)] 
 
@@ -789,7 +781,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 - **Towards an AI co-scientist**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.18864)] 
 
-### Protocol Planning and Tool Innovation
+#### Protocol Planning and Tool Innovation
 
 - **Autonomous mobile robots for exploratory synthetic chemistry**, Nature 2024, [[paper](https://doi.org/10.1038/s41586-024-08173-7)] 
 
@@ -797,7 +789,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 - **The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation**, bioRxiv 2024, [[paper](https://doi.org/10.1101/2024.11.11.623004)] 
 
-### Data Analysis and Implication Derivation
+#### Data Analysis and Implication Derivation
 
 - **Solving olympiad geometry without human demonstrations**, Nature 2024, [[paper](https://doi.org/10.1038/s41586-023-06747-5)] 
 
