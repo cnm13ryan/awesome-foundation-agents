@@ -1238,5 +1238,5 @@ We maintain a curated collection of papers exploring the path towards Foundation
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="5-3-Extrinsic_Safety.jpg" alt="Agent Extrinsic Safety:" width="100%">
+    <img src="assets/5-3-Extrinsic_Safety.jpg" alt="Agent Extrinsic Safety:" width="100%">
 </div>
