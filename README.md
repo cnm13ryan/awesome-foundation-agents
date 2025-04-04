@@ -729,6 +729,45 @@ We maintain a curated collection of papers exploring the path towards Foundation
     <img src="assets/3-self_evo.png" alt="Self-evolution" width="100%">
 </div>
 
+### Optimization Spaces
+
+#### Prompt
+
+
+- **Prompt optimization in multi-step tasks (promst): Integrating human feedback and preference alignment**, EMNLP'2024 [[paper](https://arxiv.org/abs/2402.08702)] 
+
+- **StraGo: Harnessing strategic guidance for prompt optimization**, EMNLP 2024 [[paper](https://arxiv.org/abs/2410.08601)]
+
+- **Connecting large language models with evolutionary algorithms yields powerful prompt optimizers**, ICLR 2024 [[paper](https://arxiv.org/abs/2309.08532)]
+
+#### Workflow
+
+#### Tools
+
+
+### Optimization Algorithms
+
+#### Optimization Strategies
+
+#### Meta Optimization 
+
+#### Theoretical Perspectives
+
+
+### Utilization Scenario
+
+#### Online Opitmization
+
+#### Offline Optimization
+
+### Scientific Knowledge Discovery
+
+#### Hypothesis generation and testing
+
+#### Protocol planning and tool innovation 
+
+#### Data analysis and implication derivation
+
 
 ## Scientific Knowledge Discovery
 
