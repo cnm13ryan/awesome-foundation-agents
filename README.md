@@ -3,6 +3,7 @@
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/FoundationAgents/awesome-foundation-agents/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Arxiv](https://img.shields.io/badge/arXiv-FoundationAgents-b31b1b)](https://arxiv.org/pdf/2504.01990)
 
 We maintain a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
 
