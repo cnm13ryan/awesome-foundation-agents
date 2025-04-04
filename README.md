@@ -1237,7 +1237,6 @@ We maintain a curated collection of papers exploring the path towards Foundation
     <img src="assets/5-2-Non_Brains.jng" alt="Threats on LLM Non-Brains" width="100%">
 </div>
 
-
 <div style="display: flex; justify-content: space-between;">
     <img src="5-3-Extrinsic_Safety.jpg" alt="Agent Extrinsic Safety:" width="100%">
 </div>
