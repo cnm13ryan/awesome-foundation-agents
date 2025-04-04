@@ -734,7 +734,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Prompt
 
 
-- **Prompt optimization in multi-step tasks (promst): Integrating human feedback and preference alignment**, EMNLP'2024 [[paper](https://arxiv.org/abs/2402.08702)] 
+- **Prompt optimization in multi-step tasks (promst): Integrating human feedback and preference alignment**, EMNLP 2024 [[paper](https://arxiv.org/abs/2402.08702)] 
 
 - **StraGo: Harnessing strategic guidance for prompt optimization**, EMNLP 2024 [[paper](https://arxiv.org/abs/2410.08601)]
 
@@ -749,9 +749,48 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Optimization Strategies
 
-#### Meta Optimization 
+- **Large Language Models Are Human-Level Prompt Engineers**, ICLR 2023 [[paper](https://arxiv.org/abs/2211.01910)]
+
+- **Automatic Prompt Optimization with "Gradient Descent" and Beam Search**, EMNLP 2023 [[paper](https://arxiv.org/abs/2305.03495)]
+
+- **GPTSwarm: Language Agents as Optimizable Graphs**, ICML 2024 [[paper](https://arxiv.org/abs/2402.16823)]
+
+- **Promptbreeder: Self-Referential Self-Improvement via Prompt Evolution**, ICML 2024 [[paper](https://arxiv.org/abs/2309.16797)]
+
+- **Teaching Large Language Models to Self-Debug**, ICLR 2024 [[paper](https://arxiv.org/abs/2304.05128)]
+
+- **Large Language Models as Optimizers**, ICLR 2024 [[paper](https://arxiv.org/abs/2309.03409)]
+
+- **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**, ICLR 2024 [[paper](https://arxiv.org/abs/2310.03714)]
+
+- **Prompt Engineering a Prompt Engineer**, Findings of ACL 2024 [[paper](https://arxiv.org/abs/2311.05661)]
+
+- **Prompt optimization in multi-step tasks (promst): Integrating human feedback and preference alignment**, EMNLP 2024 [[paper](https://arxiv.org/abs/2402.08702)]
+
+- **StraGo: Harnessing strategic guidance for prompt optimization**, EMNLP 2024 [[paper](https://arxiv.org/abs/2410.08601)]
+
+- **Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs**, EMNLP 2024 [[paper](https://arxiv.org/abs/2406.11695)]
+
+- **Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs**, NeurIPS 2024 [[paper](https://arxiv.org/abs/2406.16218)]
+
+- **Optimizing Generative AI by Backpropagating Language Model Feedback**, Nature [[paper](https://www.nature.com/articles/s41586-025-08661-4)]
+
+- **Are Large Language Models Good Prompt Optimizers?**, arxiv [[paper](https://arxiv.org/abs/2402.02101)]
 
 #### Theoretical Perspectives
+
+- **An Explanation of In-context Learning as Implicit Bayesian Inference**, ICLR 2022, [[paper](https://arxiv.org/abs/2111.02080)]
+
+- **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?**, EMNLP 2022, [[paper](https://arxiv.org/abs/2202.12837)]
+
+- **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**, NeurIPS 2022, [[paper](https://arxiv.org/abs/2208.01066)]
+
+- **What Learning Algorithm Is In-Context Learning? Investigations with Linear Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2211.15661)]
+
+- **Transformers Learn In-Context by Gradient Descent**, ICML 2023, [[paper](https://arxiv.org/abs/2212.07677)]
+
+- **Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2310.17086)]
+
 
 
 ### Utilization Scenario
