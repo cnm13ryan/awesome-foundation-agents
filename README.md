@@ -45,6 +45,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ##### Full
 - **Add SFT,RLHF,PEFT**
 - **ReFT: Reasoning with Reinforced Fine-Tuning**, arxiv 2024, [[paper]()] [[code]()]
+- **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** [[paper](https://arxiv.org/abs/2503.09516)] [[code](https://github.com/PeterGriffinJin/Search-R1)]
 - **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
 
 
