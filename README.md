@@ -1246,55 +1246,98 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Adversarial Attacks
 
 ##### Textual
-- PromptAttack (Xu et al., 2023)
-- Charmer (Abad et al., 2024)
-- GCG (Zou et al., 2023)
-- Wen et al. (2024)
+
+- **An LLM can Fool Itself: A Prompt-Based Adversarial Attack**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.13345)]
+  
+- **Revisiting Character-level Adversarial Attacks for Language Models**, ICML 2024, [[paper](https://openreview.net/forum?id=Z9tyM3Rru1)]
+  
+- **Hard prompts made easy: Gradient-based discrete optimization for prompt tuning and discovery**, NeurIPS 2024, [[paper](https://papers.nips.cc/paper_files/paper/2024/hash/36-Hard-Prompts-Made-Easy-Abstract-Conference.html)]
+  
+- **Universal and transferable adversarial attacks on aligned language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.15043)]
 
 ##### Visual
-- PromptMatching (Bailey et al., 2023)
-- Huang et al. (2025)
-- ARE (Wu et al., 2025)
-- Ji et al. (2021)
+
+- **Image hijacks: Adversarial images can control generative models at runtime**, arXiv 2023, [[paper](https://arxiv.org/abs/2309.00236)]
+  
+- **Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**, arXiv 2025, [[paper](https://arxiv.org/abs/2501.01042)]
+  
+- **Dissecting Adversarial Robustness of Multimodal LM Agents**, ICLR 2025, [[paper](https://openreview.net/forum?id=zCPIQdjMkJ)]
+  
+- **Poltergeist: Acoustic adversarial machine learning against cameras and computer vision**, IEEE S&P 2021, [[paper](https://ieeexplore.ieee.org/document/9474293)]
+
 
 ##### Auditory
-- VRifle (Li et al., 2023)
-- SMA (Zheng et al., 2023)
-- Tuner (Li et al., 2023)
-- UltraBD (Ze et al., 2023)
-- DolphinAttack (Zhang et al., 2017)
+
+- **Inaudible adversarial perturbation: Manipulating the recognition of user speech in real time**, arXiv 2023, [[paper](https://arxiv.org/abs/2308.01040)]
+  
+- **The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems**, ACM Multimedia 2023, [[paper](https://dl.acm.org/doi/10.1145/3581783.3612104)]
+  
+- **Enrollment-stage backdoor attacks on speaker recognition systems via adversarial ultrasound**, IEEE IoT Journal 2023, [[paper](https://ieeexplore.ieee.org/document/10162210)]
+  
+- **Ultrabd: Backdoor attack against automatic speaker verification systems via adversarial ultrasound**, ICPADS 2023, [[paper](https://ieeexplore.ieee.org/document/10089999)
+  
+- **DolphinAttack: Inaudible voice commands**, CCS 2017, [[paper](https://dl.acm.org/doi/10.1145/3133956.3134052)]
+  
+
 
 ##### Other Modality
-- Kim et al. (2024)
-- Tu et al. (2021)
-- MEMS (Son et al., 2015)
-- Kamal et al. (2021)
+
+- **A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.13778)]
+  
+- **Rocking drones with intentional sound noise on gyroscopic sensors**, USENIX Security 2015, [[paper](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/son)]
+  
+- **Adversarial attacks on multi-agent communication**, ICCV 2021, [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Tu_Adversarial_Attacks_on_Multi-Agent_Communication_ICCV_2021_paper.html)]
+  
+- **GPS location spoofing attack detection for enhancing the security of autonomous vehicles**, IEEE VTC-Fall 2021, [[paper](https://ieeexplore.ieee.org/document/9623147)]
+
 
 #### Misperception Issues
-- GLAM (Carta et al., 2023)
-- Gallegos et al. (2024)
-- Mahajan et al. (2021)
-- Mazhar et al. (2021)
-- NPHardEval (Fan et al., 2023)
-- Vilone et al. (2024)
-- Xu et al. (2023)
-- Ryu et al. (2021)
-- Ohmar et al. (2022)
-- Xu et al. (2023)
+
+- **Grounding large language models in interactive environments with online reinforcement learning**, ICML 2023, [[paper](https://proceedings.mlr.press/v202/carta23a.html)]
+  
+- **Bias and fairness in large language models: A survey**, Computational Linguistics 2024, [[paper](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00491/123804)]
+  
+- **Domain generalization using causal matching**, ICML 2021, [[paper](https://proceedings.mlr.press/v139/mahajan21a.html)]
+  
+- **GEM: Glare or gloom, I can still see you—End-to-end multi-modal object detection**, IEEE RA-L 2021, [[paper](https://ieeexplore.ieee.org/document/9513373)]
+  
+- **NPHardEval: Dynamic benchmark on reasoning ability of large language models via complexity classes**, arXiv 2023, [[paper](https://arxiv.org/abs/2312.14890)]
+  
+- **Modeling opinion misperception and the emergence of silence in online social system**, PLOS ONE 2024, [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0296075)]
+  
+- **Bridging the domain gap for multi-agent perception**, ICRA 2023, [[paper](https://ieeexplore.ieee.org/document/10161095)]
+  
+- **Cooperative and competitive biases for multi-agent reinforcement learning**, arXiv 2021, [[paper](https://arxiv.org/abs/2101.06890)]
+  
+- **Model-agnostic multi-agent perception framework**, ICRA 2023, [[paper](https://ieeexplore.ieee.org/document/10159709)]
+  
+- **Mutual influence between language and perception in multi-agent communication games**, PLOS Computational Biology 2022, [[paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010658)]
+
+
 
 ### Action Safety Threats
 
 #### Supply Chain Attack
-- Wu et al. (2024)
-- Wu et al. (2024)
-- ToolEmu (Ruan et al., 2023)
-- Greshake et al. (2023)
-- InjecAgent (Zhan et al., 2024)
+
+- **A new era in LLM security: Exploring security concerns in real-world LLM-based systems**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.18649)]
+  
+- **Wipi: A new web threat for LLM-driven web agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.09875)]
+  
+- **Identifying the risks of LM agents with an LM-emulated sandbox**, arXiv 2023, [[paper](https://arxiv.org/abs/2309.15817)]
+  
+- **Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection**, AISec@CCS 2023, [[paper](https://dl.acm.org/doi/10.1145/3617415.3624610)]
+  
+- **Benchmarking indirect prompt injections in tool-integrated large language model agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.02691)]
+
 
 #### Tool Use Risk
-- ToolEmu (Ruan et al., 2023)
-- ToolSword (Ye et al., 2024)
-- InjecAgent (Zhan et al., 2024)
+
+- **Identifying the risks of LM agents with an LM-emulated sandbox**, arXiv 2023, [[paper](https://arxiv.org/abs/2309.15817)]
+  
+- **Toolsword: Unveiling safety issues of large language models in tool learning across three stages**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.10753)]
+  
+- **Benchmarking indirect prompt injections in tool-integrated large language model agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.02691)]
+
 
 ## Agent Extrinsic Safety
   
@@ -1305,46 +1348,78 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ### Agent-Memory Interaction Threats
 
 #### Retrieval Augmented Generation
-- AgentPoison (Chen et al., 2025)
-- ConfusedPilot (Roychowdhury et al., 2024)
-- PoisonedRAG (Zou et al., 2024)
-- RAG (Shafran et al., 2024)
-- BadRAG (Xue et al., 2024)
-- TrojanRAG (Cheng et al., 2024)
-- Long et al. (2024)
+
+- **Agentpoison: Red-teaming LLM agents via poisoning memory or knowledge bases**, NeurIPS 2025, [[paper](https://papers.nips.cc/paper_files/paper/2025/hash/130185-130213-Abstract-Conference.html)]
+  
+- **ConfusedPilot: Confused deputy risks in RAG-based LLMs**, arXiv 2024, [[paper](https://arxiv.org/abs/2408.04870)]
+  
+- **PoisonedRAG: Knowledge corruption attacks to retrieval-augmented generation of large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.07867)]
+  
+- **Machine against the RAG: Jamming retrieval-augmented generation with blocker documents**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.05870)]
+  
+- **BadRAG: Identifying vulnerabilities in retrieval augmented generation of large language models**, arXiv 2024, [[paper](https://arxiv.org/abs/2406.00083)]
+  
+- **TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.13401)]
+  
+- **Whispers in Grammars: Injecting Covert Backdoors to Compromise Dense Retrieval Systems**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.13532)]
+
 
 ### Agent-Environment Interaction Threats
 
 #### Physical Environment
-- Giannaros et al. (2023)
-- Geihs (2020)
-- Khan et al. (2021)
-- Petit et al. (2015)
-- Zhou et al. (2017)
-- LiDAR-Adv (Cao et al., 2019)
-- Ha et al. (2020)
-- Tang et al. (2024)
+
+- **Autonomous vehicles: Sophisticated attacks, safety issues, challenges, open topics, blockchain, and future directions**, JCP 2023, [[paper](https://www.mdpi.com/2624-800X/3/3/27)]
+  
+- **Engineering challenges ahead for robot teamwork in dynamic environments**, Applied Sciences 2020, [[paper](https://www.mdpi.com/2076-3417/10/4/1368)]
+  
+- **On GPS spoofing of aerial platforms: a review of threats, challenges, methodologies, and future research directions**, PeerJ Computer Science 2021, [[paper](https://peerj.com/articles/cs-507)]
+  
+- **Security and privacy in cyber-physical systems: A survey**, IEEE Communications Surveys & Tutorials 2017, [[paper](https://ieeexplore.ieee.org/document/7815411)]
+  
+- **Adversarial objects against LiDAR-based autonomous driving systems**, arXiv 2019, [[paper](https://arxiv.org/abs/1907.05418)]
+  
+- **Learning to walk in the real world with minimal human effort**, arXiv 2020, [[paper](https://arxiv.org/abs/2002.08550)]
+  
+- **Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.04247)]
 
 #### Digital Environment
-- Wu et al. (2024)
-- LLMSmith (Liu et al., 2024)
-- Wu et al. (2024)
-- Guastalla et al. (2023)
-- Geiping et al. (2024)
-- Tang et al. (2024)
-- EIA (Liao et al., 2024)
-- AdvWeb (Xu et al., 2024)
-- AGrail (Luo et al., 2025)
+
+- **A new era in LLM security: Exploring security concerns in real-world LLM-based systems**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.18649)]
+  
+- **Demystifying RCE vulnerabilities in LLM-integrated apps**, CCS 2024, [[paper](https://dl.acm.org/doi/10.1145/3618271.3630876)]
+  
+- **Wipi: A new web threat for LLM-driven web agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2403.09875)]
+  
+- **Application of large language models to DDoS attack detection**, SPCPS 2023, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-45910-2_6)]
+  
+- **Coercing LLMs to do and reveal (almost) anything**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.14020)]
+  
+- **Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.04247)]
+  
+- **EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.11295)]
+  
+- **AdvWeb: Controllable Black-Box Attacks on VLM-Powered Web Agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2410.17401)]
+  
+- **AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.11448)]
 
 ### Agent-Agent Interaction Threats
 
 #### Competitive Interactions
-- Hammond et al. (2025)
-- Hoodwinked (O'Gara et al., 2023)
-- Mo et al. (2022)
-- Wen et al. (2023)
-- Motwani et al. (2023)
+
+- **Multi-Agent Risks from Advanced AI**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.14143)]
+  
+- **Hoodwinked: Deception and cooperation in a text-based game for language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2308.01404)]
+  
+- **Attacking deep reinforcement learning with decoupled adversarial policy**, IEEE TDSC 2022, [[paper](https://ieeexplore.ieee.org/document/9519422)]
+  
+- **Secure consensus of multi-agent systems under denial-of-service attacks**, Asian Journal of Control 2023, [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.2921)]
+  
+- **A Perfect Collusion Benchmark: How can AI agents be prevented from colluding with information-theoretic undetectability?**, Multi-Agent Security Workshop @ NeurIPS 2023, [[paper](https://openreview.net/forum?id=NEURIPS-2023-perfect-collusion)]
+
 
 #### Cooperative Interactions
-- Pan et al. (2023)
-- AgentSmith (Gu et al., 2024)
+
+- **On the risk of misinformation pollution with large language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2305.13661)]
+  
+- **Agent Smith: A single image can jailbreak one million multimodal LLM agents exponentially fast**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.08567)]
+
