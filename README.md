@@ -1233,10 +1233,116 @@ We maintain a curated collection of papers exploring the path towards Foundation
   
 - **Extracting Prompts by Inverting LLM Outputs**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.15012)]
 
+## Threats on Non-Brain
+
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/5-2-Non_Brains.jpg" alt="Threats on LLM Non-Brains" width="100%">
 </div>
 
+### Perception Safety Threats
+
+#### Adversarial Attacks
+
+##### Textual
+- PromptAttack (Xu et al., 2023)
+- Charmer (Abad et al., 2024)
+- GCG (Zou et al., 2023)
+- Wen et al. (2024)
+
+##### Visual
+- PromptMatching (Bailey et al., 2023)
+- Huang et al. (2025)
+- ARE (Wu et al., 2025)
+- Ji et al. (2021)
+
+##### Auditory
+- VRifle (Li et al., 2023)
+- SMA (Zheng et al., 2023)
+- Tuner (Li et al., 2023)
+- UltraBD (Ze et al., 2023)
+- DolphinAttack (Zhang et al., 2017)
+
+##### Other Modality
+- Kim et al. (2024)
+- Tu et al. (2021)
+- MEMS (Son et al., 2015)
+- Kamal et al. (2021)
+
+#### Misperception Issues
+- GLAM (Carta et al., 2023)
+- Gallegos et al. (2024)
+- Mahajan et al. (2021)
+- Mazhar et al. (2021)
+- NPHardEval (Fan et al., 2023)
+- Vilone et al. (2024)
+- Xu et al. (2023)
+- Ryu et al. (2021)
+- Ohmar et al. (2022)
+- Xu et al. (2023)
+
+### Action Safety Threats
+
+#### Supply Chain Attack
+- Wu et al. (2024)
+- Wu et al. (2024)
+- ToolEmu (Ruan et al., 2023)
+- Greshake et al. (2023)
+- InjecAgent (Zhan et al., 2024)
+
+#### Tool Use Risk
+- ToolEmu (Ruan et al., 2023)
+- ToolSword (Ye et al., 2024)
+- InjecAgent (Zhan et al., 2024)
+
+## Agent Extrinsic Safety
+  
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/5-3-Extrinsic_Safety.jpg" alt="Agent Extrinsic Safety:" width="100%">
 </div>
+
+### Agent-Memory Interaction Threats
+
+#### Retrieval Augmented Generation
+- AgentPoison (Chen et al., 2025)
+- ConfusedPilot (Roychowdhury et al., 2024)
+- PoisonedRAG (Zou et al., 2024)
+- RAG (Shafran et al., 2024)
+- BadRAG (Xue et al., 2024)
+- TrojanRAG (Cheng et al., 2024)
+- Long et al. (2024)
+
+### Agent-Environment Interaction Threats
+
+#### Physical Environment
+- Giannaros et al. (2023)
+- Geihs (2020)
+- Khan et al. (2021)
+- Petit et al. (2015)
+- Zhou et al. (2017)
+- LiDAR-Adv (Cao et al., 2019)
+- Ha et al. (2020)
+- Tang et al. (2024)
+
+#### Digital Environment
+- Wu et al. (2024)
+- LLMSmith (Liu et al., 2024)
+- Wu et al. (2024)
+- Guastalla et al. (2023)
+- Geiping et al. (2024)
+- Tang et al. (2024)
+- EIA (Liao et al., 2024)
+- AdvWeb (Xu et al., 2024)
+- AGrail (Luo et al., 2025)
+
+### Agent-Agent Interaction Threats
+
+#### Competitive Interactions
+- Hammond et al. (2025)
+- Hoodwinked (O'Gara et al., 2023)
+- Mo et al. (2022)
+- Wen et al. (2023)
+- Motwani et al. (2023)
+
+#### Cooperative Interactions
+- Pan et al. (2023)
+- AgentSmith (Gu et al., 2024)
