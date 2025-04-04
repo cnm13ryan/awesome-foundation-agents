@@ -8,7 +8,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ## Our Works Towards Foundation Agents
 
-✨✨✨ [Advances and Challenges in Foundation Agents]() (Paper)
+✨✨✨ [Advances and Challenges in Foundation Agents](https://www.arxiv.org/abs/2504.01990) (Paper)
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/1-brain.png" alt="The key of human brain." width="48%">
