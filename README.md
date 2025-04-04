@@ -959,7 +959,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 # Building Safe and Beneficial AI
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/5-safety.png" alt="Agent Intrinsic Safety" width="100%">
+    <img src="assets/5-1-Safety_Brain.png" alt="Agent Intrinsic Safety" width="100%">
 </div>
 
 ## Safety Threats
@@ -1233,3 +1233,10 @@ We maintain a curated collection of papers exploring the path towards Foundation
   
 - **Extracting Prompts by Inverting LLM Outputs**, arXiv 2024, [[paper](https://arxiv.org/abs/2405.15012)]
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/5-2-Non_Brains.jpg" alt="Threats on LLM Non-Brains" width="100%">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/5-3-Extrinsic_Safety.jpg" alt="Agent Extrinsic Safety:" width="100%">
+</div>
