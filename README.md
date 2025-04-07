@@ -11,10 +11,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ✨✨✨ [Advances and Challenges in Foundation Agents](https://www.arxiv.org/abs/2504.01990) (Paper)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/1-brain.png" alt="The key of human brain." width="48%">
-    <img src="assets/1-agent_framework.png" alt="The Framework of Foundation Agent" width="48%">
-</div>
+![The key of human brain.](assets/1-brain.png)
+![The Framework of Foundation Agent](assets/1-agent_framework.png)
 
 # Awesome Papers
 
