@@ -797,7 +797,53 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Online Opitmization
 
+- **Reflexion: language agents with verbal reinforcement learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)]
+
+- **Self-refine: Iterative refinement with self-feedback**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.17651)]
+
+- **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2210.03629)]
+
+- **Tree of thoughts: Deliberate problem solving with large language models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)]
+
+- **Voyager: An Open-Ended Embodied Agent with Large Language Models**, TMLR 2024, [[paper](https://arxiv.org/abs/2305.16291)]
+
+- **Let's Verify Step by Step**, ICLR 2024, [[paper](https://arxiv.org/abs/2305.20050)]
+
+- **MetaGPT: Meta programming for multi-agent collaborative framework**, ICLR 2024, [[paper](https://arxiv.org/abs/2308.00352)]
+
+- **Camel: Communicative agents for “mind” exploration of large language model society**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.17760)]
+
+- **ChatDev: Communicative Agents for Software Development**, ACL 2024, [[paper](https://arxiv.org/abs/2307.07924)]
+
+- **Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.17580)]
+
+- **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation**, COLM 2024, [[paper](https://arxiv.org/abs/2310.02304)]
+
+- **Quiet-star: Language models can teach themselves to think before speaking**, CoRR 2024, [[paper](https://arxiv.org/abs/2403.09629)]
+
+- **Text2reward: Automated dense reward function generation for reinforcement learning. **, ICLR 2024, [[paper](https://arxiv.org/abs/2309.11489)]
+
+- **Extracting prompts by inverting LLM outputs**, ACL 2024, [[paper](https://arxiv.org/abs/2405.15012)]
+
+- **Aligning large language models via self-steering optimization.**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.17131)]
+
+- **Aligning large language models via self-steering optimization.**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.17131)]
+
 #### Offline Optimization
+
+- **Are Large Language Models Good Statisticians?**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2406.07815)]
+
+- **nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity**, arxiv 2025, [[paper](https://arxiv.org/abs/2503.12880)]
+
+- **Srag: Structured retrieval-augmented generation for multi-entity question answering over wikipedia graph**, arxiv 2025, [[paper](https://arxiv.org/abs/2503.01346)]
+
+- **Fine-grained retrieval-augmented generation for visual question answering**, arxiv 2025, [[paper](https://arxiv.org/abs/2502.20964)]
+
+- **xLAM: A Family of Large Action Models to Empower AI Agent Systems**, arxiv 2024, [[paper](https://arxiv.org/abs/2409.03215)]
+
+- **Automated design of agentic systems.**, arxiv 2024, [[paper](https://arxiv.org/abs/2408.08435)]
+
+- **LIRE: listwise reward enhancement for preference alignment**, ACL 2024, [[paper](https://arxiv.org/abs/2405.13516)]
 
 
 ### Scientific Knowledge Discovery
