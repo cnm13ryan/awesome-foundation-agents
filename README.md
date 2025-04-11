@@ -510,6 +510,20 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### DB & KG
 
+- **A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**, arXiv 2024, [[paper](arxiv.org/abs/2408.05109)] [[code](https://github.com/HKUSTDial/NL2SQL_Handbook)]
+
+- **Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.17248)]
+
+- **EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing**, arXiv 2025, [[paper](https://arxiv.org/abs/2503.22402)] [[code](https://elliesql.github.io/)]
+  
+- **NL2SQL-Bugs: A Benchmark for Detecting Semantic Errors in NL2SQL Translation**, arXiv 2025, [[paper](https://arxiv.org/abs/2503.11984)] [[code](https://nl2sql-bugs.github.io/)]
+
+- **nvBench 2.0: A Benchmark for Natural Language to Visualization under Ambiguity**, arXiv 2025, [[paper](https://arxiv.org/abs/2503.12880)] [[code](https://nvbench2.github.io/)]
+
+- **The Dawn of Natural Language to SQL: Are We Fully Ready?**, VLDB 2024, [[paper](https://arxiv.org/abs/2406.01265)] [[code](https://nl2sql360.github.io/)]
+  
+- **Are Large Language Models Good Statisticians?**, NIPS 2024, [[paper](https://arxiv.org/abs/2406.07815)] [[code](https://statqa.github.io/)]
+
 - **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models**, EMNLP 2022, [[paper](https://arxiv.org/abs/2201.05966)] [[code](https://github.com/xlang-ai/UnifiedSKG)]
 
 - **Don't Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments**, ACL 2023, [[paper](https://arxiv.org/abs/2212.09736)] [[code](https://github.com/dki-lab/Pangu)]
