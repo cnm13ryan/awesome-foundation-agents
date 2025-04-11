@@ -510,7 +510,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### DB & KG
 
-- **A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**, arXiv 2024, [[paper](arxiv.org/abs/2408.05109)] [[code](https://github.com/HKUSTDial/NL2SQL_Handbook)]
+- **A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?**, arXiv 2024, [[paper](arxiv.org/abs/2408.05109)] [[Handbook](https://github.com/HKUSTDial/NL2SQL_Handbook)]
 
 - **Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.17248)]
 
