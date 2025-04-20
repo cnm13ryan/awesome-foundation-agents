@@ -7,6 +7,8 @@
 
 We maintain a curated collection of papers exploring the path towards Foundation Agents, with a focus on formulating the core concepts and navigating the research landscape.
 
+⌛️ Coming soon: Version 2! We're continuously compiling and updating cutting-edge insights. Feel free to suggest any related work you find valuable!
+
 ## Our Works Towards Foundation Agents
 
 ✨✨✨ [Advances and Challenges in Foundation Agents](https://www.arxiv.org/abs/2504.01990) (Paper)
