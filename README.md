@@ -663,80 +663,81 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ### Extrinsic Reward
 #### Dense Reward
-- InstructGPT , 2022, [[paper]()] [[code]()]
-- DRO , 2024, [[paper]()] [[code]()]
-- sDPO , 2024, [[paper]()] [[code]()]
-- ΨPO , 2024, [[paper]()] [[code]()]
-- β-DPO , 2025, [[paper]()] [[code]()]
-- ORPO , 2024, [[paper]()] [[code]()]
-- DNO , 2024, [[paper]()] [[code]()]
-- f-DPO , 2023, [[paper]()] [[code]()]
-- Xu et al. , 2023, [[paper]()] [[code]()]
-- Rafailov et al. , 2024, [[paper]()] [[code]()]
+- **Training language models to follow instructions with human feedback**, 2022, [[paper](https://arxiv.org/abs/2203.02155)] [[code](https://github.com/openai/following-instructions-human-feedback)]
+- **Offline Regularised Reinforcement Learning for Large Language Models Alignment**, 2024, [[paper](https://arxiv.org/abs/2405.19107)]
+- **sDPO: Don't Use Your Data All at Once**, 2024, [[paper](https://arxiv.org/abs/2403.19270)]
+- **A General Theoretical Paradigm to Understand Learning from Human Preferences**, 2024, [[paper](https://arxiv.org/abs/2310.12036)]
+- **β-DPO: Direct Preference Optimization with Dynamic β**, 2025, [[paper](https://arxiv.org/abs/2407.08639)]
+- **ORPO: Monolithic Preference Optimization without Reference Model**, 2024, [[paper](https://arxiv.org/abs/2403.07691)] [[code](https://github.com/xfactlab/orpo)]
+- **Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences**, 2024, [[paper](https://arxiv.org/abs/2404.03715)]
+- **Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints**, 2023, [[paper](https://arxiv.org/abs/2309.16240)]
+- **Some things are more CRINGE than others: Iterative Preference Optimization with the Pairwise Cringe Loss**, 2023, [[paper](https://arxiv.org/abs/2312.16682)]
+- **From $ r $ to $ q^* $: Your language model is secretly a q-function**, 2024, [[paper](https://arxiv.org/abs/2404.12358)] [[code]()]
 
 #### Sparse Reward
-- PAFT , 2024, [[paper]()] [[code]()]
-- SimPO , 2025, [[paper]()] [[code]()]
-- LiPO , 2024, [[paper]()] [[code]()]
-- RRHF , 2023, [[paper]()] [[code]()]
-- PRO , 2024, [[paper]()] [[code]()]
-- D²O , 2024, [[paper]()] [[code]()]
-- NPO , 2024, [[paper]()] [[code]()]
-- Ahmadian et al. , 2024, [[paper]()] [[code]()]
+- **PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning**, 2024, [[paper](https://arxiv.org/abs/2406.17923)]
+- **SimPO: Simple Preference Optimization with a Reference-Free Reward**, 2025, [[paper](https://arxiv.org/abs/2405.14734)] [[code](https://github.com/princeton-nlp/SimPO)]
+- **LiPO: Listwise Preference Optimization through Learning-to-Rank**, 2024, [[paper](https://arxiv.org/abs/2402.01878)] [[code]()]
+- **RRHF: Rank Responses to Align Language Models with Human Feedback without tears**, 2023, [[paper](https://arxiv.org/abs/2304.05302)] [[code](https://github.com/GanjinZero/RRHF)]
+- **Preference Ranking Optimization for Human Alignment**, 2024, [[paper](https://arxiv.org/abs/2306.17492)] [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/PRO)]
+- **Negating Negatives: Alignment with Human Negative Samples via Distributional Dispreference Optimization**, 2024, [[paper](https://arxiv.org/abs/2403.03419)]
+- **Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning**, 2024, [[paper](https://arxiv.org/abs/2404.05868)] [[code](https://github.com/licong-lin/negative-preference-optimization)]
+- **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs**, 2024, [[paper](https://arxiv.org/abs/2402.14740)] [[code](https://github.com/openai/summarize-from-feedback)]
 
 #### Delayed Reward
-- CPO , 2024, [[paper]()] [[code]()]
-- NLHF , 2023, [[paper]()] [[code]()]
-- Swamy et al. , 2024, [[paper]()] [[code]()]
+- **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation
+**, 2024, [[paper](https://arxiv.org/abs/2401.08417)] [[code](https://github.com/fe1ixxu/ALMA)]
+- **Nash Learning from Human Feedback**, 2023, [[paper](https://arxiv.org/abs/2312.00886)]
+- **A Minimaximalist Approach to Reinforcement Learning from Human Feedback**, 2024, [[paper](https://arxiv.org/abs/2401.04056)]
 
 #### Adaptive Reward
-- InstructGPT , 2022, [[paper]()] [[code]()]
-- DRO , 2024, [[paper]()] [[code]()]
-- β-DPO , 2025, [[paper]()] [[code]()]
-- ORPO , 2024, [[paper]()] [[code]()]
-- PAFT , 2024, [[paper]()] [[code]()]
-- SimPO , 2025, [[paper]()] [[code]()]
-- NLHF , 2023, [[paper]()] [[code]()]
-- Swamy et al. , 2024, [[paper]()] [[code]()]
-- f-DPO (Wang et al. , 2023, [[paper]()] [[code]()]
+- **Training language models to follow instructions with human feedback**, 2022, [[paper](https://arxiv.org/abs/2203.02155)] [[code](https://github.com/openai/following-instructions-human-feedback)]
+- **Offline Regularised Reinforcement Learning for Large Language Models Alignment**, 2024, [[paper](https://arxiv.org/abs/2405.19107)]
+- **β-DPO: Direct Preference Optimization with Dynamic β**, 2025, [[paper](https://arxiv.org/abs/2407.08639)]
+- **ORPO: Monolithic Preference Optimization without Reference Model**, 2024, [[paper](https://arxiv.org/abs/2403.07691)] [[code](https://github.com/xfactlab/orpo)]
+- **PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning**, 2024, [[paper](https://arxiv.org/abs/2406.17923)]
+- **SimPO: Simple Preference Optimization with a Reference-Free Reward**, 2025, [[paper](https://arxiv.org/abs/2405.14734)] [[code](https://github.com/princeton-nlp/SimPO)]
+- **Nash Learning from Human Feedback**, 2023, [[paper](https://arxiv.org/abs/2312.00886)]
+- **A Minimaximalist Approach to Reinforcement Learning from Human Feedback**, 2024, [[paper](https://arxiv.org/abs/2401.04056)]
+- **Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints**, 2023, [[paper](https://arxiv.org/abs/2309.16240)]
 
 ### Intrinsic Reward
 #### Curiosity-Driven Reward
-- Pathak et al. , 2017, [[paper]()] [[code]()]
-- Pathak et al. , 2019, [[paper]()] [[code]()]
-- Plan2Explore , 2020, [[paper]()] [[code]()]
+- **Curiosity-driven Exploration by Self-supervised Prediction**, 2017, [[paper](https://arxiv.org/abs/1705.05363)] [[code](https://github.com/pathak22/noreward-rl)]
+- **Self-Supervised Exploration via Disagreement**, 2019, [[paper](https://arxiv.org/abs/1906.04161)] [[code](https://github.com/pathak22/exploration-by-disagreement)]
+- **Planning to Explore via Self-Supervised World Models**, 2020, [[paper](https://arxiv.org/abs/2005.05960)] [[code](https://github.com/ramanans1/plan2explore)]
 
 #### Diversity Reward
-- LIIR (Du et al. , 2019, [[paper]()] [[code]()]
+- **Liir: Learning individual intrinsic reward in multi-agent reinforcement learning**, 2019, [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/07a9d3fed4c5ea6b17e80258dee231fa-Paper.pdf)]
 
 #### Competence-Based Reward
-- CURIOUS (Colas et al. , 2019, [[paper]()] [[code]()]
-- Skew-Fit (Pong et al. , 2019, [[paper]()] [[code]()]
-- DISCERN (Hassani et al. , 2021, [[paper]()] [[code]()]
-- Yuan et al. , 2024, [[paper]()] [[code]()]
-- KTO (Ethayarajh et al. , 2024, [[paper]()] [[code]()]
+- **CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning**, 2019, [[paper](https://arxiv.org/abs/1810.06284)] [[code](https://github.com/flowersteam/curious)]
+- **Skew-Fit: State-Covering Self-Supervised Reinforcement Learning**, 2019, [[paper](https://arxiv.org/abs/1903.03698)]
+- **DISCERN: Diversity-based Selection of Centroids for k-Estimation and Rapid Non-stochastic Clustering**, 2021, [[paper](https://arxiv.org/abs/1910.05933)] [[code](https://github.com/alihassanijr/DISCERN)]
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, 2024, [[paper](https://arxiv.org/abs/2401.01335)] [[code](https://github.com/uclaml/SPIN)]
+- **KTO: Model Alignment as Prospect Theoretic Optimization**, 2024, [[paper](https://arxiv.org/abs/2402.01306)] [[code](https://github.com/ContextualAI/HALOs)]
 
 #### Exploration Reward
-- Yuan et al. , 2024, [[paper]()] [[code]()]
-- Burda et al. , 2018, [[paper]()] [[code]()]
+- **Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**, 2024, [[paper](https://arxiv.org/abs/2401.01335)] [[code](https://github.com/uclaml/SPIN)]
+- **Exploration by Random Network Distillation**, 2018, [[paper](https://arxiv.org/abs/1810.12894)] [[code](https://github.com/openai/random-network-distillation)]
 
 #### Information Gain Reward
-- Ton et al. , 2024, [[paper]()] [[code]()]
-- VIME (Houthooft et al. , 2016, [[paper]()] [[code]()]
-- EMI (Kim et al. , 2019, [[paper]()] [[code]()]
-- MAX (Shyam et al. , 2019, [[paper]()] [[code]()]
-- KTO (Ethayarajh et al. , 2024, [[paper]()] [[code]()]
+- **Understanding Chain-of-Thought in LLMs through Information Theory**, 2024, [[paper](https://arxiv.org/abs/2411.11984)]
+- **VIME: Variational Information Maximizing Exploration**, 2016, [[paper](https://arxiv.org/abs/1605.09674)] [[code](https://github.com/openai/vime)]
+- **EMI: Exploration with Mutual Information**, 2019, [[paper](https://arxiv.org/abs/1810.01176)] [[code](https://github.com/snu-mllab/EMI)]
+- **Model-Based Active Exploration**, 2019, [[paper](https://arxiv.org/abs/1810.12162)] [[code](https://github.com/nnaisense/max)]
+- **KTO: Model Alignment as Prospect Theoretic Optimization**, 2024, [[paper](https://arxiv.org/abs/2402.01306)] [[code](https://github.com/ContextualAI/HALOs)]
 
 ### Hybrid Reward
 #### Combination of Intrinsic and Extrinsic Reward
-- d-RLAIF (Lee et al. , 2023, [[paper]()] [[code]()]
-- Bai et al. , 2022, [[paper]()] [[code]()]
-- Xiong et al. , 2023, [[paper]()] [[code]()]
-- Dong et al. , 2024, [[paper]()] [[code]()]
+- **RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**, 2023, [[paper](https://arxiv.org/abs/2309.00267)]
+- **Constitutional AI: Harmlessness from AI Feedback**, 2022, [[paper](https://arxiv.org/abs/2212.08073)] [[code](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)]
+- **Iterative Preference Learning from Human Feedback: Bridging Theory and Practice for RLHF under KL-Constraint**, 2023, [[paper](https://arxiv.org/abs/2312.11456)]
+- **RLHF Workflow: From Reward Modeling to Online RLHF**, 2024, [[paper](https://arxiv.org/abs/2405.07863)] [[code](https://github.com/RLHFlow/RLHF-Reward-Modeling)]
 
 ### Hierarchical Reward
 #### Hierarchical Reward
-- TDPO (Zeng et al. , 2024, [[paper]()] [[code]()]
+- **Token-level Direct Preference Optimization**, 2024, [[paper](https://arxiv.org/abs/2404.11999)] [[code](https://github.com/Vance0124/Token-level-Direct-Preference-Optimization)]
 
 ## Emotion
 
