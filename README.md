@@ -685,8 +685,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs**, 2024, [[paper](https://arxiv.org/abs/2402.14740)] [[code](https://github.com/openai/summarize-from-feedback)]
 
 #### Delayed Reward
-- **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation
-**, 2024, [[paper](https://arxiv.org/abs/2401.08417)] [[code](https://github.com/fe1ixxu/ALMA)]
+- **Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**, 2024, [[paper](https://arxiv.org/abs/2401.08417)] [[code](https://github.com/fe1ixxu/ALMA)]
 - **Nash Learning from Human Feedback**, 2023, [[paper](https://arxiv.org/abs/2312.00886)]
 - **A Minimaximalist Approach to Reinforcement Learning from Human Feedback**, 2024, [[paper](https://arxiv.org/abs/2401.04056)]
 
