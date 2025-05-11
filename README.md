@@ -672,7 +672,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences**, 2024, [[paper](https://arxiv.org/abs/2404.03715)]
 - **Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints**, 2023, [[paper](https://arxiv.org/abs/2309.16240)]
 - **Some things are more CRINGE than others: Iterative Preference Optimization with the Pairwise Cringe Loss**, 2023, [[paper](https://arxiv.org/abs/2312.16682)]
-- **From $ r $ to $ q^* $: Your language model is secretly a q-function**, 2024, [[paper](https://arxiv.org/abs/2404.12358)] [[code]()]
+- **From r to Q∗: Your Language Model is Secretly a Q-Function**, 2024, [[paper](https://arxiv.org/abs/2404.12358)] [[code]()]
 
 #### Sparse Reward
 - **PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning**, 2024, [[paper](https://arxiv.org/abs/2406.17923)]
