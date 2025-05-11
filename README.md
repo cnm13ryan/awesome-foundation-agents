@@ -302,102 +302,102 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ### Unimodal Models
 
 #### Text
-- BERT (Devlin et al., 2018)
-- RoBERTa (Liu et al., 2019)
-- ALBERT (Lan et al., 2019)
+- **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**, 2018, [[paper](https://arxiv.org/abs/1810.04805)] [[code](https://github.com/google-research/bert)]
+- **RoBERTa: A Robustly Optimized BERT Pretraining Approach**, 2019, [[paper](https://arxiv.org/abs/1907.11692)] [[code](https://github.com/facebookresearch/fairseq)]
+- **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations** , 2019, [[paper](https://arxiv.org/abs/1909.11942)] [[code](https://github.com/google-research/ALBERT)]
 
 #### Image
-- ResNet (He et al., 2016)
-- DETR (Carion et al., 2020)
-- Grounding DINO 1.5 (Ren et al., 2024)
+- **Deep Residual Learning for Image Recognition**, CVPR 2016, [[paper](https://arxiv.org/abs/1512.03385)] [[code](https://github.com/KaimingHe/deep-residual-networks)]
+- **End-to-End Object Detection with Transformers**, 2020, [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
+- **Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**, 2024, [[paper](https://arxiv.org/abs/2405.10300)] [[code](https://github.com/IDEA-Research/Grounding-DINO-1.5-API)]
 
 #### Video
-- ViViT (Arnab et al., 2021)
-- VideoMAE (Tong et al., 2022)
+- **ViViT: A Video Vision Transformer**, 2021, [[paper](https://arxiv.org/abs/2103.15691)] [[code](https://github.com/google-research/scenic/tree/main/scenic/projects/vivit)]
+- **VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**, 2022, [[paper](https://arxiv.org/abs/2203.12602)] [[code](https://github.com/MCG-NJU/VideoMAE)]
 
 #### Audio
-- FastSpeech 2 (Ren et al., 2020)
-- Seamless (Barrault et al., 2023)
-- wav2vec 2.0 (Baevski et al., 2020)
+- **FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**, 2020, [[paper](https://arxiv.org/abs/2006.04558)] [[code](https://speechresearch.github.io/fastspeech2)]
+- **Seamless: Multilingual Expressive and Streaming Speech Translation**, 2023, [[paper](https://arxiv.org/abs/2312.05187)] [[code](https://github.com/facebookresearch/seamless_communication)]
+- **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**, 2020, [[paper](https://arxiv.org/abs/2006.11477)] [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)]
 
 #### Other Unimodal
-- Visual ChatGPT (Wu et al., 2023)
-- HuggingGPT (Shen et al., 2024)
-- MM-REACT (Yang et al., 2023)
-- ViperGPT (Suris et al., 2023)
-- AudioGPT (Huang et al., 2024)
-- LLaVA-Plus (Liu et al., 2025)
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**, 2023, [[paper](https://arxiv.org/abs/2303.04671)] [[code](https://github.com/chenfei-wu/TaskMatrix)]
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**, 2024, [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**, 2023, [[paper](https://arxiv.org/abs/2303.11381)] [[code](https://github.com/microsoft/MM-REACT)]
+- **ViperGPT: Visual Inference via Python Execution for Reasoning**, 2023, [[paper](https://arxiv.org/abs/2303.08128)] [[code](https://github.com/cvlab-columbia/viper)]
+- **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head**, 2024, [[paper](https://arxiv.org/abs/2304.12995)] [[code](https://github.com/AIGC-Audio/AudioGPT)]
+- **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**, 2025, [[paper](https://arxiv.org/abs/2311.05437)] [[code](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)]
 
 ### Cross-modal Models
 
 #### Text-Image
-- CLIP (Alec et al., 2021)
-- ALIGN (Jia et al., 2021)
-- DALL·E 3 (Betker et al., 2023)
-- VisualBERT (Li et al., 2019)
+- **Learning Transferable Visual Models From Natural Language Supervision**, 2021, [[paper](https://arxiv.org/abs/2103.00020)] [[code](https://github.com/OpenAI/CLIP)]
+- **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision** , 2021, [[paper](https://arxiv.org/abs/2102.05918)]
+- **Improving Image Generation with Better Captions**, 2023, [[paper](https://cdn.openai.com/papers/dall-e-3.pdf)]
+- **VisualBERT: A Simple and Performant Baseline for Vision and Language**, 2019, [[paper](https://arxiv.org/abs/1908.03557)] [[code](https://github.com/uclanlp/visualbert)]
 
 #### Text-Video
-- VideoCLIP (Xu et al., 2021)
-- Phenaki (Villegas et al., 2022)
-- Make-A-Video (Singer et al., 2022)
+- **VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding**, 2021, [[paper](https://arxiv.org/abs/2109.14084)] [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/MMPT)]
+- **Phenaki: Variable Length Video Generation From Open Domain Textual Description**, 2022, [[paper](https://arxiv.org/abs/2210.02399)] [[code](https://phenaki.github.io/)]
+- **Make-A-Video: Text-to-Video Generation without Text-Video Data**, 2022, [[paper](https://arxiv.org/abs/2209.14792)] [[code](https://make-a-video.github.io/)]
 
 #### Text-Audio
-- Wav2CLIP (Wu et al., 2022)
-- VATT (Akbari et al., 2021)
-- AudioCLIP (Guzhov et al., 2022)
+- **Wav2CLIP: Learning Robust Audio Representations From CLIP**, 2022, [[paper](https://arxiv.org/abs/2110.11499)] [[code](https://github.com/descriptinc/lyrebird-wav2clip)]
+- **VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text**, 2021, [[paper](https://arxiv.org/abs/2104.11178)] [[code](https://github.com/google-research/google-research/tree/master/vatt)]
+- **AudioCLIP: Extending CLIP to Image, Text and Audio** , 2022, [[paper](https://arxiv.org/abs/2106.13043)] [[code](https://github.com/AndreyGuzhov/AudioCLIP)]
 
 #### Other Cross-modal
-- CLIP-Forge (Sanghi et al., 2022)
-- Point-E (Nichol et al., 2022)
+- **CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation**, 2022, [[paper](https://arxiv.org/abs/2110.02624)] [[code](https://github.com/AutodeskAILab/Clip-Forge)]
+- **Point-E: A System for Generating 3D Point Clouds from Complex Prompts**, 2022, [[paper](https://arxiv.org/abs/2212.08751)] [[code](https://github.com/openai/point-e)]
 
 ### MultiModal Models
 
 #### VLM (Vision-Language Models)
-- MiniGPT-v2 (Chen et al., 2023)
-- LLaVA-NeXT (Liu et al., 2024)
-- CogVLM2 (Hong et al., 2024)
-- Qwen2-VL (Wang et al., 2024)
-- Emu2 (Sun et al., 2024)
+- **MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**, 2023, [[paper](https://arxiv.org/abs/2310.09478)] [[code](https://github.com/Vision-CAIR/MiniGPT-4)]
+- **LLaVA-NeXT: Improved reasoning, OCR, and world knowledge**, 2024, [[paper](https://llava-vl.github.io/blog/2024-01-30-llava-next)] [[code](https://github.com/LLaVA-VL/LLaVA-NeXT)]
+- **CogVLM2: Visual Language Models for Image and Video Understanding**, 2024, [[paper](https://arxiv.org/abs/2408.16500)] [[code](https://github.com/THUDM/CogVLM2)]
+- **Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**, 2024, [[paper](https://arxiv.org/abs/2409.12191)] [[code](https://github.com/QwenLM/Qwen2.5-VL)]
+- **Generative Multimodal Models are In-Context Learners**, 2024, [[paper](https://arxiv.org/abs/2312.13286)] [[code](https://github.com/baaivision/Emu)]
 
 ##### Edge-Side VLM
-- TinyGPT-V (Yuan et al., 2023)
-- MobileVLM (Chu et al., 2023)
-- MiniCPM-V (Yao et al., 2024)
-- OmniParser (Lu et al., 2024)
+- **TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**, 2023, [[paper](https://arxiv.org/abs/2312.16862)] [[code](https://github.com/DLYuanGod/TinyGPT-V)]
+- **MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**, 2023, [[paper](https://arxiv.org/abs/2312.16886)] [[code](https://github.com/Meituan-AutoML/MobileVLM)]
+- **MiniCPM-V: A GPT-4V Level MLLM on Your Phone**, 2024, [[paper](https://arxiv.org/abs/2408.01800)] [[code](https://github.com/OpenBMB/MiniCPM-V)]
+- **OmniParser for Pure Vision Based GUI Agent** , 2024, [[paper](https://arxiv.org/abs/2408.00203)] [[code](https://github.com/microsoft/OmniParser)]
 
 #### VLA (Vision-Language for Action)
-- CLIPort (Shridhar et al., 2022)
-- RT-1 (Brohan et al., 2022)
-- MOO (Stone et al., 2023)
-- PerAct (Shridhar et al., 2023)
-- Diffusion Policy (Chi et al., 2023)
-- PaLM-E (Driess et al., 2023)
-- MultiPLY (Hong et al., 2024)
+- **CLIPort: What and Where Pathways for Robotic Manipulation**, 2022, [[paper](https://arxiv.org/abs/2109.12098)] [[code](https://github.com/cliport/cliport)]
+- **RT-1: Robotics Transformer for Real-World Control at Scale**, 2022, [[paper](https://arxiv.org/abs/2212.06817)] [[code](https://github.com/google-research/robotics_transformer)]
+- **Open-World Object Manipulation using Pre-trained Vision-Language Models**, 2023, [[paper](https://arxiv.org/abs/2303.00905)] [[code](https://robot-moo.github.io/)]
+- **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, 2023, [[paper](https://arxiv.org/abs/2209.05451)] [[code](https://github.com/peract/peract)]
+- **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion**, 2023, [[paper](https://arxiv.org/abs/2303.04137)] [[code](https://github.com/real-stanford/diffusion_policy)]
+- **PaLM-E: An Embodied Multimodal Language Model**, 2023, [[paper](https://arxiv.org/abs/2303.03378)] [[code](https://palm-e.github.io/)]
+- **MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World**, 2024, [[paper](https://arxiv.org/abs/2401.08577)] [[code](https://github.com/eth-ait/MultiPly)]
 
 #### ALM (Audio-Language Models)
-- Audio Flamingo (Kong et al., 2024)
-- SpeechVerse (Das et al., 2024)
-- UniAudio 1.5 (Yang et al., 2024)
-- Qwen2-Audio (Chu et al., 2024)
-- Audio-LLM (Li et al., 2024)
-- Mini-Omni (Xie et al., 2024)
-- SpeechGPT (Zhang et al., 2023)
+- **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities**, 2024, [[paper](https://arxiv.org/abs/2402.01831)] [[code](https://audioflamingo.github.io/)]
+- **SpeechVerse: A Large-scale Generalizable Audio Language Model**, 2024, [[paper](https://arxiv.org/abs/2405.08295)]
+- **UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner**, 2024, [[paper](https://arxiv.org/abs/2406.10056)] [[code](https://github.com/yangdongchao/LLM-Codec)]
+- **Qwen2-Audio Technical Report**, 2024, [[paper](https://arxiv.org/abs/2407.10759)] [[code](https://github.com/QwenLM/Qwen2-Audio)]
+- **AudioLM: a Language Modeling Approach to Audio Generation**, 2024, [[paper](https://arxiv.org/abs/2209.03143)] [[code](https://google-research.github.io/seanet/audiolm/examples)]
+- **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**, 2024, [[paper](https://arxiv.org/abs/2408.16725)] [[code](https://github.com/gpt-omni/mini-omni)]
+- **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities**, 2023, [[paper](https://arxiv.org/abs/2305.11000)] [[code](https://github.com/0nutation/SpeechGPT)]
 
 #### AVLM (Audio-Visual-Language Models)
-- ONE-PEACE (Wang et al., 2023)
-- PandaGPT (Su et al., 2023)
-- Macaw-LLM (Lyu et al., 2023)
-- LanguageBind (Zhu et al., 2023)
-- UnIVAL (Shukor et al., 2023)
-- X-LLM (Chen et al., 2023)
+- **ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities**, 2023, [[paper](https://arxiv.org/abs/2305.11172)] [[code](https://github.com/OFA-Sys/ONE-PEACE)]
+- **PandaGPT: One Model To Instruction-Follow Them All**, 2023, [[paper](https://arxiv.org/abs/2305.16355)] [[code](https://github.com/yxuansu/PandaGPT)]
+- **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration** , 2023, [[paper](https://arxiv.org/abs/2306.09093)] [[code](https://github.com/lyuchenyang/Macaw-LLM)]
+- **LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**, 2023, [[paper](https://arxiv.org/abs/2310.01852)] [[code](https://github.com/PKU-YuanGroup/LanguageBind)]
+- **UnIVAL: Unified Model for Image, Video, Audio and Language Tasks**, 2023, [[paper](https://arxiv.org/abs/2307.16184)] [[code](https://github.com/mshukor/UnIVAL)]
+- **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**, 2023, [[paper](https://arxiv.org/abs/2305.04160)] [[code](https://github.com/phellonchen/X-LLM)]
 
 #### Other MultiModal
-- PointLLM (Xu et al., 2025)
-- MiniGPT-3D (Tang et al., 2024)
-- NExT-GPT (Wu et al., 2023)
-- Unified-IO 2 (Lu et al., 2024)
-- CoDi-2 (Tang et al., 2024)
-- ModaVerse (Wang et al., 2024)
+- **PointLLM: Empowering Large Language Models to Understand Point Clouds**, 2025, [[paper](https://arxiv.org/abs/2308.16911)] [[code](https://github.com/OpenRobotLab/PointLLM)]
+- **MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**, 2024, [[paper](https://arxiv.org/abs/2405.01413)] [[code](https://github.com/TangYuan96/MiniGPT-3D)]
+- **NExT-GPT: Any-to-Any Multimodal LLM**, 2023, [[paper](https://arxiv.org/abs/2309.05519)] [[code](https://github.com/NExT-GPT/NExT-GPT)]
+- **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**, 2024, [[paper](https://arxiv.org/abs/2312.17172)] [[code](https://github.com/allenai/unified-io-2)]
+- **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, 2024, [[paper]()] [[code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)]
+- **ModaVerse: Efficiently Transforming Modalities with LLMs**, 2024, [[paper](https://arxiv.org/abs/2401.06395)] [[code](https://github.com/xinke-wang/ModaVerse)]
 
 ## World Model
 
@@ -663,80 +663,80 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ### Extrinsic Reward
 #### Dense Reward
-- InstructGPT (Ouyang et al., 2022)
-- DRO (Richemond et al., 2024)
-- sDPO (Kim et al., 2024)
-- ΨPO (Azar et al., 2024)
-- β-DPO (Wu et al., 2025)
-- ORPO (Hong et al., 2024)
-- DNO (Rosset et al., 2024)
-- f-DPO (Wang et al., 2023)
-- Xu et al., 2023
-- Rafailov et al., 2024
+- InstructGPT , 2022, [[paper]()] [[code]()]
+- DRO , 2024, [[paper]()] [[code]()]
+- sDPO , 2024, [[paper]()] [[code]()]
+- ΨPO , 2024, [[paper]()] [[code]()]
+- β-DPO , 2025, [[paper]()] [[code]()]
+- ORPO , 2024, [[paper]()] [[code]()]
+- DNO , 2024, [[paper]()] [[code]()]
+- f-DPO , 2023, [[paper]()] [[code]()]
+- Xu et al. , 2023, [[paper]()] [[code]()]
+- Rafailov et al. , 2024, [[paper]()] [[code]()]
 
 #### Sparse Reward
-- PAFT (Pentyala et al., 2024)
-- SimPO (Meng et al., 2025)
-- LiPO (Liu et al., 2024)
-- RRHF (Yuan et al., 2023)
-- PRO (Song et al., 2024)
-- D²O (Duan et al., 2024)
-- NPO (Zhang et al., 2024)
-- Ahmadian et al., 2024
+- PAFT , 2024, [[paper]()] [[code]()]
+- SimPO , 2025, [[paper]()] [[code]()]
+- LiPO , 2024, [[paper]()] [[code]()]
+- RRHF , 2023, [[paper]()] [[code]()]
+- PRO , 2024, [[paper]()] [[code]()]
+- D²O , 2024, [[paper]()] [[code]()]
+- NPO , 2024, [[paper]()] [[code]()]
+- Ahmadian et al. , 2024, [[paper]()] [[code]()]
 
 #### Delayed Reward
-- CPO (Xu et al., 2024)
-- NLHF (Munos et al., 2023)
-- Swamy et al., 2024
+- CPO , 2024, [[paper]()] [[code]()]
+- NLHF , 2023, [[paper]()] [[code]()]
+- Swamy et al. , 2024, [[paper]()] [[code]()]
 
 #### Adaptive Reward
-- InstructGPT (Ouyang et al., 2022)
-- DRO (Richemond et al., 2024)
-- β-DPO (Wu et al., 2025)
-- ORPO (Hong et al., 2024)
-- PAFT (Pentyala et al., 2024)
-- SimPO (Meng et al., 2025)
-- NLHF (Munos et al., 2023)
-- Swamy et al., 2024
-- f-DPO (Wang et al., 2023)
+- InstructGPT , 2022, [[paper]()] [[code]()]
+- DRO , 2024, [[paper]()] [[code]()]
+- β-DPO , 2025, [[paper]()] [[code]()]
+- ORPO , 2024, [[paper]()] [[code]()]
+- PAFT , 2024, [[paper]()] [[code]()]
+- SimPO , 2025, [[paper]()] [[code]()]
+- NLHF , 2023, [[paper]()] [[code]()]
+- Swamy et al. , 2024, [[paper]()] [[code]()]
+- f-DPO (Wang et al. , 2023, [[paper]()] [[code]()]
 
 ### Intrinsic Reward
 #### Curiosity-Driven Reward
-- Pathak et al., 2017
-- Pathak et al., 2019
-- Plan2Explore (Sekar et al., 2020)
+- Pathak et al. , 2017, [[paper]()] [[code]()]
+- Pathak et al. , 2019, [[paper]()] [[code]()]
+- Plan2Explore , 2020, [[paper]()] [[code]()]
 
 #### Diversity Reward
-- LIIR (Du et al., 2019)
+- LIIR (Du et al. , 2019, [[paper]()] [[code]()]
 
 #### Competence-Based Reward
-- CURIOUS (Colas et al., 2019)
-- Skew-Fit (Pong et al., 2019)
-- DISCERN (Hassani et al., 2021)
-- Yuan et al., 2024
-- KTO (Ethayarajh et al., 2024)
+- CURIOUS (Colas et al. , 2019, [[paper]()] [[code]()]
+- Skew-Fit (Pong et al. , 2019, [[paper]()] [[code]()]
+- DISCERN (Hassani et al. , 2021, [[paper]()] [[code]()]
+- Yuan et al. , 2024, [[paper]()] [[code]()]
+- KTO (Ethayarajh et al. , 2024, [[paper]()] [[code]()]
 
 #### Exploration Reward
-- Yuan et al., 2024
-- Burda et al., 2018
+- Yuan et al. , 2024, [[paper]()] [[code]()]
+- Burda et al. , 2018, [[paper]()] [[code]()]
 
 #### Information Gain Reward
-- Ton et al., 2024
-- VIME (Houthooft et al., 2016)
-- EMI (Kim et al., 2018)
-- MAX (Shyam et al., 2019)
-- KTO (Ethayarajh et al., 2024)
+- Ton et al. , 2024, [[paper]()] [[code]()]
+- VIME (Houthooft et al. , 2016, [[paper]()] [[code]()]
+- EMI (Kim et al. , 2019, [[paper]()] [[code]()]
+- MAX (Shyam et al. , 2019, [[paper]()] [[code]()]
+- KTO (Ethayarajh et al. , 2024, [[paper]()] [[code]()]
 
 ### Hybrid Reward
 #### Combination of Intrinsic and Extrinsic Reward
-- d-RLAIF (Lee et al., 2023)
-- Bai et al., 2022
-- Xiong et al., 2023
-- Dong et al., 2024
+- d-RLAIF (Lee et al. , 2023, [[paper]()] [[code]()]
+- Bai et al. , 2022, [[paper]()] [[code]()]
+- Xiong et al. , 2023, [[paper]()] [[code]()]
+- Dong et al. , 2024, [[paper]()] [[code]()]
 
 ### Hierarchical Reward
 #### Hierarchical Reward
-- TDPO (Zeng et al., 2024)
+- TDPO (Zeng et al. , 2024, [[paper]()] [[code]()]
 
 ## Emotion
 
