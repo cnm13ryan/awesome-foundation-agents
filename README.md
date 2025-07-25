@@ -146,7 +146,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ### Representation
 
-#### sensory
+#### Sensory
 ##### Text‑based
 - RecAgent: A Novel Simulation Paradigm for Recommender Systems, arXiv 2023, [[paper](https://arxiv.org/abs/2306.02552)] [[code](https://github.com/RUC-GSAI/YuLan-Rec)]
 - CoPS: Cognitive Personalized Search: Integrating Large Language Models with an Efficient Memory Mechanism, WWW 2024, [[paper](https://arxiv.org/abs/2403.15264)]
