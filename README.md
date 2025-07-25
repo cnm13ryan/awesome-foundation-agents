@@ -223,30 +223,29 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Derivation
 ##### Reflection
-- Agent S (Agashe et al., 2024)
-- OSCAR (Wang et al., 2024)
-- R2D2 (Huang et al., 2025)
-- Mobile-Agent-E (Wang et al., 2025)
+**Agent S: An Open Agentic Framework that Uses Computers Like a Human**, ICLR 2025 Poster, [[paper](https://arxiv.org/abs/2403.05901)] [[code](https://github.com/simular-ai/Agent-S)]  
+**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**, ICLR 2025, [[paper](https://arxiv.org/abs/2403.08767)]  
+**R2D2: Remembering, Reflecting and Dynamic Decision Making for Web Agents**, ACL 2025, [[paper](https://aclanthology.org/2025.acl-long.1464)]  
+**Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**, ACL ARR 2025 (submitted), [[paper](https://arxiv.org/abs/2309.15945)] [[code](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-E)]
 
 ##### Summarization
-- SummEdits (Laban et al., 2023)
-- SCM (Wang et al., 2023)
-- Healthcare Copilot (Ren et al., 2024)
-- Wang et al. (2023)
+**SummEdits: Edit-based Factuality-Oriented Summarization**, EMNLP 2023, [[paper](https://aclanthology.org/2023.emnlp-main.600)] [[code](https://github.com/salesforce/summedits)]  
+**SCM: Enhancing Large Language Model with Self-Controlled Memory Framework**, DASFAA 2025, [[paper](https://arxiv.org/abs/2310.04521)] [[code](https://github.com/wbbeyourself/SCM4LLMs)] 
+**Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.10045)]  
 
 ##### Knowledge Distillation
-- Knowagent (Zhu et al., 2024)
-- AoTD (Shi et al., 2024)
-- LDPD (Liu et al., 2024)
-- Sub-goal Distillation (Hashemzadeh et al., 2024)
-- MAGDi (Chen et al., 2024)
+**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**, Findings of NAACL 2025, [[paper](https://arxiv.org/abs/2402.09419)] [[code](https://github.com/KnowAgent/KnowAgent)]  
+**AoTD: Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation**, CVPR 2025, [[paper](https://arxiv.org/abs/2412.01694)]  
+**LDPD: Language-Driven Policy Distillation**, ICLR 2024 LLM-Agents Workshop, [[paper](https://arxiv.org/abs/2404.19008)]  
+**Sub-goal Distillation: Bridging Large Language Models and Goal-Conditioned RL for Long-Horizon Tasks**, CoLLAs 2024, [[paper](https://arxiv.org/abs/2407.06720)]  
+**MAGDi: Memory-Augmented Generative Debugger**, ICML 2024, [[paper](https://arxiv.org/abs/2406.11424)] [[code](https://github.com/justinchiu/MAGDi)]
 
 ##### Selective Forgetting
-- Lyfe Agent (Kaiya et al., 2023)
-- TiM (Liu et al., 2023)
-- MemoryBank (Zhong et al., 2024)
-- S³ (Gao et al., 2023)
-- Hou et al. (2024)
+**Lyfe Agents: Generative Agents for Low-Cost Real-Time Social Interactions**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.09816)]  
+**TiM: Think-in-Memory Language Models**, ICLR 2024 (submitted), [[paper](https://openreview.net/forum?id=TiM24)]  
+**MemoryBank: Enhancing Large Language Models with Long-Term Memory**, AAAI 2024, [[paper](https://arxiv.org/abs/2308.08589)] [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]  
+**S³: Social-Network Simulation System with Large Language Model-Empowered Agents**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.14984)] [[code](https://github.com/GA-S3/Social-Simulation)]  
+**MyAgent: Integrating Dynamic Human-Like Memory Recall and Consolidation in LLM-Based Agents**, CHI 2024 Late-Breaking Work, [[paper](https://arxiv.org/abs/2402.02485)] [[code](https://github.com/tamoharu/Agent-Memory-CHI24)]
 
 #### Retrieval
 ##### Indexing
