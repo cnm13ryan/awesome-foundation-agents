@@ -44,9 +44,9 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Space
 ##### Full
 - **Add SFT,RLHF,PEFT**
-- **ReFT: Reasoning with Reinforced Fine-Tuning**, arxiv 2024, [[paper]()] [[code]()]
+ - **ReFT: Reasoning with Reinforced Fine-Tuning**, arxiv 2024, [[paper](https://arxiv.org/abs/2401.08967)] [[code]()] 
 - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning** [[paper](https://arxiv.org/abs/2503.09516)] [[code](https://github.com/PeterGriffinJin/Search-R1)]
-- **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
+ - **R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper](https://arxiv.org/abs/2503.05592)] [[code]()] 
 
 
 ##### Partial
@@ -61,20 +61,20 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **CLIP: Learning Transferable Visual Models from Natural Language Supervision**, ICML 2021, [[paper](https://arxiv.org/abs/2103.00020)] [[code]()]
 - **LLaVA: Visual Instruction Tuning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2304.08485)] [[code]()]
 - **CogVLM: Visual Expert for Pretrained Language Models**, NeurIPS 2025, [[paper](https://arxiv.org/abs/2311.03079)] [[code]()]
-- **Qwen2-Audio Technical Report**, arxiv 2024, [[paper]()] [[code]()]
-- **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
+ - **Qwen2-Audio Technical Report**, arxiv 2024, [[paper](https://arxiv.org/abs/2407.10759)] [[code]()] 
+ - **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**, arxiv 2025, [[paper](https://arxiv.org/abs/2503.09516)] [[code]()] 
 
 
 ##### Reasoning
-- **SKY-T1: Train Your Own o1 Preview Model Within $450**, 2025, [[paper]()] [[code]()]
-- **Open Thoughts**, 2025, [[paper]()] [[code]()]
-- **LIMO: Less is More for Reasoning**, arxiv 2025, [[paper]()] [[code]()]
-- **STaR: Bootstrapping Reasoning with Reasoning**, arxiv 2022, [[paper]()] [[code]()]
+ - **SKY-T1: Train Your Own o1 Preview Model Within $450**, 2025, [[paper](https://arxiv.org/abs/2502.07374)] [[code]()] 
+ - **Open Thoughts**, 2025, [[paper](https://arxiv.org/abs/2506.04178)] [[code]()] 
+ - **LIMO: Less is More for Reasoning**, arxiv 2025, [[paper](https://arxiv.org/abs/2502.03387)] [[code]()] 
+ - **STaR: Bootstrapping Reasoning with Reasoning**, arxiv 2022, [[paper](https://arxiv.org/abs/2203.14465)] [[code]()] 
 - **ReST: Reinforced Self-Training for Language Modeling**, arxiv 2023, [[paper](https://arxiv.org/abs/2308.08998)] [[code]()]
-- **OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models**, arxiv 2024, [[paper]()] [[code]()]
-- **LLaMA-Berry: Pairwise Optimization for o1-like Olympiad-level Mathematical Reasoning**, arxiv 2024, [[paper]()] [[code]()]
-- **RAGEN: Training Agents by Reinforcing Reasoning**, arxiv 2025, [[paper]()] [[code]()]
-- **Open-R1**, 2024, [[paper]()] [[code]()]
+ - **OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.09671)] [[code]()] 
+ - **LLaMA-Berry: Pairwise Optimization for o1-like Olympiad-level Mathematical Reasoning**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.02884)] [[code]()] 
+ - **RAGEN: Training Agents by Reinforcing Reasoning**, arxiv 2025, [[paper](https://arxiv.org/abs/2504.20073)] [[code]()] 
+ - **Open-R1**, 2024, [[paper](https://huggingface.co/blog/open-r1)] [[code]()] 
 
 ##### World
 - **Inner Monologue: Embodied Reasoning through Planning with Language Models**, CoRL 2023, [[paper](https://arxiv.org/abs/2207.05608)] [[code]()]
@@ -88,26 +88,26 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Structured
 ##### Dynamic
 - **ReAct: Synergizing Reasoning and Acting in Language Models**, arxiv 2022, [[paper](https://arxiv.org/abs/2210.03629)] [[code]()]
-- **Markov Chain of Thought for Efficient Mathematical Reasoning**, arxiv 2024, [[paper]()] [[code]()]
+ - **Markov Chain of Thought for Efficient Mathematical Reasoning**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.17635)] [[code]()] 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)] [[code]()]
 - **Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models**, ICML 2024, [[paper](https://arxiv.org/abs/2310.04406)] [[code]()]
 - **Reasoning via Planning (RAP): Improving Language Models with World Models**, EMNLP 2023, [[paper](https://arxiv.org/abs/2305.14992)] [[code]()]
 - **Graph of Thoughts: Solving Elaborate Problems with Large Language Models**, AAAI 2023, [[paper](https://arxiv.org/abs/2308.09687)] [[code]()]
-- **Path of Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**, arxiv 2024, [[paper]()] [[code]()]
-- **On the Diagram of Thought**, arxiv 2024, [[paper]()] [[code]()]
+ - **Path of Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**, arxiv 2024, [[paper](https://arxiv.org/abs/2412.17963)] [[code]()] 
+ - **On the Diagram of Thought**, arxiv 2024, [[paper](https://arxiv.org/abs/2409.10038)] [[code]()] 
 
 ##### Static
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023, [[paper](https://arxiv.org/abs/2203.11171)] [[code]()]
 - **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2303.17651)] [[code]()]
 - **Progressive-Hint Prompting Improves Reasoning in Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2304.09797)] [[code]()]
-- **On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks**, arxiv 2024, [[paper]()] [[code]()]
+ - **On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks**, arxiv 2024, [[paper](https://arxiv.org/abs/2402.08115)] [[code]()] 
 - **Chain-of-Verification Reduces Hallucination in Large Language Models**, ICLR 2024 Workshop, [[paper](https://arxiv.org/abs/2309.11495)] [[code]()]
 
 
 ##### Domain
 - **MathPrompter: Mathematical Reasoning Using Large Language Models**, ACL 2023, [[paper](https://arxiv.org/abs/2303.05398)] [[code]()]
-- **LLMs Can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought**, arxiv 2024, [[paper]()] [[code]()]
-- **Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models**, COLING 2025, [[paper]()] [[code]()]
+ - **LLMs Can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.06705)] [[code]()] 
+ - **Physics Reasoner: Knowledge-Augmented Reasoning for Solving Physics Problems with Large Language Models**, COLING 2025, [[paper](https://arxiv.org/abs/2412.13791)] [[code]()] 
 
 
 #### Unstructured
@@ -116,23 +116,23 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**, ICLR 2024, [[paper](https://arxiv.org/abs/2310.06117)] [[code]()]
 - **Ask Me Anything: A Simple Strategy for Prompting Language Models**, arxiv 2022, [[paper](https://arxiv.org/abs/2210.02441)] [[code]()]
 - **Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources**, arxiv 2023, [[paper](https://arxiv.org/abs/2305.13269)] [[code]()]
-- **Self-Explained Keywords Empower Large Language Models for Code Generation**, arxiv 2024, [[paper]()] [[code]()]
+ - **Self-Explained Keywords Empower Large Language Models for Code Generation**, arxiv 2024, [[paper](https://arxiv.org/abs/2410.15966)] [[code]()] 
 
 
 ##### Model
-- **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper]()] [[code]()]
-- **Claude 3.7 Sonnet**, 2025, [[paper]()] [[code]()]
-- **OpenAI o1 System Card**, arxiv 2024, [[paper]()] [[code]()]
+ - **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**, arxiv 2025, [[paper](https://arxiv.org/abs/2501.12948)] [[code]()] 
+ - **Claude 3.7 Sonnet**, 2025, [[paper](https://www.anthropic.com/news/claude-3-7-sonnet-and-claude-code)] [[code]()] 
+ - **OpenAI o1 System Card**, arxiv 2024, [[paper](https://arxiv.org/abs/2412.16720)] [[code]()] 
 
 ##### Implicit
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.09629)] [[code]()]
-- **Chain of Continuous Thought (Coconut): Training Large Language Models to Reason in a Continuous Latent Space**, arxiv 2024, [[paper]()] [[code]()]
+ - **Chain of Continuous Thought (Coconut): Training Large Language Models to Reason in a Continuous Latent Space**, arxiv 2024, [[paper](https://arxiv.org/abs/2412.06769)] [[code]()] 
 
 
 #### Planning
 - **Describe, Explain, Plan and Select (DEPS): Interactive Planning with Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2302.01560)] [[code]()]
 - **ProgPrompt: Generating Situated Robot Task Plans Using Large Language Models**, ICRA 2023, [[paper](https://arxiv.org/abs/2209.11302)] [[code]()]
-- **ADAPT: As-Needed Decomposition and Planning with Language Models**, arxiv 2023, [[paper]()] [[code]()]
+ - **ADAPT: As-Needed Decomposition and Planning with Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2311.05772)] [[code]()] 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.10601)] [[code]()]
 - **Reasoning via Planning (RAP): Improving Language Models with World Models**, EMNLP 2023, [[paper](https://arxiv.org/abs/2305.14992)] [[code]()]
 - **TravelPlanner: A Benchmark for Real-World Planning with Language Agents**, ICML 2024, [[paper](https://arxiv.org/abs/2402.01622)] [[code]()]
@@ -397,7 +397,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors**, 2024, [[paper](https://arxiv.org/abs/2405.01413)] [[code](https://github.com/TangYuan96/MiniGPT-3D)]
 - **NExT-GPT: Any-to-Any Multimodal LLM**, 2023, [[paper](https://arxiv.org/abs/2309.05519)] [[code](https://github.com/NExT-GPT/NExT-GPT)]
 - **Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**, 2024, [[paper](https://arxiv.org/abs/2312.17172)] [[code](https://github.com/allenai/unified-io-2)]
-- **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, 2024, [[paper]()] [[code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)]
+ - **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, 2024, [[paper](https://arxiv.org/abs/2311.18775)] [[code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] 
 - **ModaVerse: Efficiently Transforming Modalities with LLMs**, 2024, [[paper](https://arxiv.org/abs/2401.06395)] [[code](https://github.com/xinke-wang/ModaVerse)]
 
 ## World Model
@@ -419,7 +419,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 **AutoManual [108]: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.16247)], [[code][]]
 
-**PILCO [355]: A Model-Based and Data-Efficient Approach to Policy Search**, ICML 2011, [[paper]()], [[code][]]
+ **PILCO [355]: A Model-Based and Data-Efficient Approach to Policy Search**, ICML 2011, [[paper](https://proceedings.mlr.press/v17/deisenroth12a.html)], [[code][]] 
 
 ### Internal Approaches
 **ActRe [49]: ReAct meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.14589)], [[code][]]
@@ -430,9 +430,9 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 **Diffusion WM [353]: Diffusion for World Modeling: Visual Details Matter in Atari**, arxiv 2024, [[paper](https://arxiv.org/abs/2405.12399)], [[code][]]
 
-**GQN [354]: Neural Scene Representation and Rendering**, Science 2018, [[paper]()], [[code][]]
+ **GQN [354]: Neural Scene Representation and Rendering**, Science 2018, [[paper](https://arxiv.org/abs/1807.07422)], [[code][]] 
 
-**Daydreamer [352]: World Models for Physical Robot Learning**, CoRL 2023, [[paper]()], [[code][]]
+ **Daydreamer [352]: World Models for Physical Robot Learning**, CoRL 2023, [[paper](https://arxiv.org/abs/2206.14176)], [[code][]] 
 
 ## Action
 <div style="display: flex; justify-content: space-between;">
