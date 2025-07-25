@@ -144,129 +144,129 @@ We maintain a curated collection of papers exploring the path towards Foundation
     <img src="assets/2-2-memory.png" alt="Memory in Intelligence Agents" width="100%">
 </div>
 
-### 1. Representation
+### Representation
 
-#### 1.1 sensory
-##### 1.1.1 Text‑based
-- RecAgent: A Novel Simulation Paradigm for Recommender Systems, arXiv 2023, [paper](https://arxiv.org/abs/2306.02552) [code](https://github.com/RUC-GSAI/YuLan-Rec)
-- CoPS: Cognitive Personalized Search: Integrating Large Language Models with an Efficient Memory Mechanism, WWW 2024, [paper](https://arxiv.org/abs/2403.15264)
-- MemoryBank: Enhancing Large Language Models with Long‑Term Memory, AAAI 2024, [paper](https://arxiv.org/abs/2308.08589) [code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
-- Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents, UIST 2023 Adjunct, [paper](https://arxiv.org/abs/2309.09631)
+#### sensory
+##### Text‑based
+- RecAgent: A Novel Simulation Paradigm for Recommender Systems, arXiv 2023, [[paper](https://arxiv.org/abs/2306.02552)] [[code](https://github.com/RUC-GSAI/YuLan-Rec)]
+- CoPS: Cognitive Personalized Search: Integrating Large Language Models with an Efficient Memory Mechanism, WWW 2024, [[paper](https://arxiv.org/abs/2403.15264)]
+- MemoryBank: Enhancing Large Language Models with Long‑Term Memory, AAAI 2024, [[paper](https://arxiv.org/abs/2308.08589)] [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
+- Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents, UIST 2023 Adjunct, [[paper](https://arxiv.org/abs/2309.09631)]
 
-##### 1.1.2 Multi‑modal
-- VideoAgent: A Memory‑augmented Multimodal Agent for Video Understanding, ECCV 2024, [paper](https://arxiv.org/abs/2405.07956) [code](https://github.com/wxh1996/VideoAgent)
-- WorldGPT: Empowering LLM as Multimodal World Model, arXiv 2024, [paper](https://arxiv.org/abs/2403.10193) [code](https://github.com/DCDmllm/WorldGPT)
-- Agent S: An Open Agentic Framework that Uses Computers Like a Human, arXiv 2024, [paper](https://arxiv.org/abs/2403.05901) [code](https://github.com/simular-ai/Agent-S)
-- OS‑Copilot: Towards Generalist Computer Agents with Self‑Improvement, ICLR 2024 LLMAgents Workshop, [paper](https://arxiv.org/abs/2403.17359) [code](https://github.com/OS-Copilot/OS-Copilot)
-- MuLan: Multimodal‑LLM Agent for Progressive and Interactive Multi‑Object Diffusion, arXiv 2024, [paper](https://arxiv.org/abs/2405.11075) [code](https://github.com/measure-infinity/mulan-code)
+##### Multi‑modal
+- VideoAgent: A Memory‑augmented Multimodal Agent for Video Understanding, ECCV 2024, [[paper](https://arxiv.org/abs/2405.07956)] [[code](https://github.com/wxh1996/VideoAgent)]
+- WorldGPT: Empowering LLM as Multimodal World Model, arXiv 2024, [[paper](https://arxiv.org/abs/2403.10193)] [[code](https://github.com/DCDmllm/WorldGPT)]
+- Agent S: An Open Agentic Framework that Uses Computers Like a Human, arXiv 2024, [[paper](https://arxiv.org/abs/2403.05901)][[code](https://github.com/simular-ai/Agent-S)]
+- OS‑Copilot: Towards Generalist Computer Agents with Self‑Improvement, ICLR 2024 LLMAgents Workshop, [[paper](https://arxiv.org/abs/2403.17359)] [[code](https://github.com/OS-Copilot/OS-Copilot)]
+- MuLan: Multimodal‑LLM Agent for Progressive and Interactive Multi‑Object Diffusion, arXiv 2024, [[paper](https://arxiv.org/abs/2405.11075)] [[code](https://github.com/measure-infinity/mulan-code)]
 
-#### 1.2 Short‑term
-##### 1.2.1 Context
-- MemGPT: Towards LLMs as Operating Systems, arXiv 2023, [paper](https://arxiv.org/abs/2309.07508) [code](https://github.com/cpacker/MemGPT)
-- KARMA: Augmenting Embodied AI Agents with Long‑ and Short‑Term Memory Systems, arXiv 2024, [paper](https://arxiv.org/abs/2403.09692) [code](https://github.com/WZX0Swarm0Robotics/KARMA)
-- LSFS: From Commands to Prompts: LLM‑based Semantic File System, ICLR 2025, [paper](https://arxiv.org/abs/2404.13007) [code](https://github.com/agiresearch/AIOS-LSFS)
-- OSCAR: Operating System Control via State‑Aware Reasoning and Re‑Planning, ICLR 2025, [paper](https://arxiv.org/abs/2403.08767)
-- RCI: Language Models Can Solve Computer Tasks (Recursive Criticism and Improvement), NeurIPS 2023, [paper](https://arxiv.org/abs/2305.12934) [code](https://github.com/posgnu/rci-agent)
+#### Short‑term
+##### Context
+- MemGPT: Towards LLMs as Operating Systems, arXiv 2023, [[paper](https://arxiv.org/abs/2309.07508)] [[code](https://github.com/cpacker/MemGPT)]
+- KARMA: Augmenting Embodied AI Agents with Long‑ and Short‑Term Memory Systems, arXiv 2024, [[paper](https://arxiv.org/abs/2403.09692)] [[code](https://github.com/WZX0Swarm0Robotics/KARMA)]
+- LSFS: From Commands to Prompts: LLM‑based Semantic File System, ICLR 2025, [[paper](https://arxiv.org/abs/2404.13007)] [[code](https://github.com/agiresearch/AIOS-LSFS)]
+- OSCAR: Operating System Control via State‑Aware Reasoning and Re‑Planning, ICLR 2025, [[paper](https://arxiv.org/abs/2403.08767)]
+- RCI: Language Models Can Solve Computer Tasks (Recursive Criticism and Improvement), NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.12934)] [[code](https://github.com/posgnu/rci-agent)]
 
-##### 1.2.2 Working
-- Generative Agent: Interactive Simulacra of Human Behavior, UIST 2023, [paper](https://arxiv.org/abs/2305.00118) [code](https://github.com/joonspk-research/generative_agents)
-- RLP: Reflective Linguistic Programming (RLP): A Stepping Stone in Socially‑Aware AGI, arXiv 2023, [paper](https://arxiv.org/abs/2305.12647)
-- CALYPSO: LLMs as Dungeon Master’s Assistants, AIIDE 2023, [paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27546) [code](https://github.com/northern-lights-province/calypso-aiide-artifact)
-- HiAgent: Hierarchical Working Memory Management for Solving Long‑Horizon Agent Tasks with Large Language Model, arXiv 2024, [paper](https://arxiv.org/abs/2405.12790) [code](https://github.com/HiAgent2024/HiAgent)
+##### Working
+- Generative Agent: Interactive Simulacra of Human Behavior, UIST 2023, [[paper](https://arxiv.org/abs/2305.00118)] [[code](https://github.com/joonspk-research/generative_agents)]
+- RLP: Reflective Linguistic Programming (RLP): A Stepping Stone in Socially‑Aware AGI, arXiv 2023, [[paper](https://arxiv.org/abs/2305.12647)]
+- CALYPSO: LLMs as Dungeon Master’s Assistants, AIIDE 2023, [[paper](https://ojs.aaai.org/index.php/AIIDE/article/view/27546)] [[code](https://github.com/northern-lights-province/calypso-aiide-artifact)]
+- HiAgent: Hierarchical Working Memory Management for Solving Long‑Horizon Agent Tasks with Large Language Model, arXiv 2024, [[paper](https://arxiv.org/abs/2405.12790)] [[code](https://github.com/HiAgent2024/HiAgent)]
 
-#### 1.3 Long‑term
-##### 1.3.1 Semantic
-- AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents, arXiv 2024, [paper](https://arxiv.org/abs/2407.04363) [code](https://github.com/AIRI-Institute/AriGraph)
+#### Long‑term
+##### Semantic
+- AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents, arXiv 2024, [[paper](https://arxiv.org/abs/2407.04363)] [[code](https://github.com/AIRI-Institute/AriGraph)]
 - RecAgent: see above
-- HippoRAG: Neurobiologically Inspired Long‑Term Memory for Large Language Models, NeurIPS 2024, [paper](https://arxiv.org/abs/2405.14831) [code](https://github.com/OSU-NLP-Group/HippoRAG)
+- HippoRAG: Neurobiologically Inspired Long‑Term Memory for Large Language Models, NeurIPS 2024, [[paper](https://arxiv.org/abs/2405.14831)] [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
 
-##### 1.3.2 Episodic
-- MobileGPT: Augmenting LLM with Human‑like App Memory for Mobile Task Automation, ACM MobiCom 2024, [paper](https://arxiv.org/abs/2312.03003)
+##### Episodic
+- MobileGPT: Augmenting LLM with Human‑like App Memory for Mobile Task Automation, ACM MobiCom 2024, [[paper](https://arxiv.org/abs/2312.03003)]
 - MemoryBank: see above
-- Episodic Memory Verbalization Using Hierarchical Representations of Life‑Long Robot Experience, arXiv 2024, [paper](https://arxiv.org/abs/2409.17702) [code](https://hierarchical-emv.github.io)
-- MrSteve: Instruction‑Following Agents in Minecraft with What‑Where‑When Memory, ICLR 2025, [paper](https://arxiv.org/abs/2406.0) *(project code pending)*
+- Episodic Memory Verbalization Using Hierarchical Representations of Life‑Long Robot Experience, arXiv 2024, [[paper](https://arxiv.org/abs/2409.17702)] [[code](https://hierarchical-emv.github.io)]
+- MrSteve: Instruction‑Following Agents in Minecraft with What‑Where‑When Memory, ICLR 2025, [[paper](https://arxiv.org/abs/2406.0)] *(project code pending)*
 
-##### 1.3.3 Procedural
-- AAG: Analogy‑Augmented Generation for LLMs, ACL ARR 2024, [paper](https://arxiv.org/abs/2404.07239)
-- Cradle: Empowering Foundation Agents towards General Computer Control, ICLR 2025, [paper](https://openreview.net/forum?id=cradle) [code](https://github.com/BAAI-Agents/Cradle)
-- JARVIS‑1: Open‑World Multi‑Task Agents with Memory‑Augmented Multimodal Language Models, NeurIPS 2023 ALOE Workshop, [paper](https://arxiv.org/abs/2311.05997) [code](https://github.com/CraftJarvis/JARVIS-1)
-- LARP: Language‑Agent Role Play for Open‑World Games, arXiv 2023, [paper](https://arxiv.org/abs/2312.09352)
+##### Procedural
+- AAG: Analogy‑Augmented Generation for LLMs, ACL ARR 2024, [[paper](https://arxiv.org/abs/2404.07239)]
+- Cradle: Empowering Foundation Agents towards General Computer Control, ICLR 2025, [[paper](https://openreview.net/forum?id=cradle)] [[code](https://github.com/BAAI-Agents/Cradle)]
+- JARVIS‑1: Open‑World Multi‑Task Agents with Memory‑Augmented Multimodal Language Models, NeurIPS 2023 ALOE Workshop, [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
+- LARP: Language‑Agent Role Play for Open‑World Games, arXiv 2023, [[paper](https://arxiv.org/abs/2312.09352)]
 
 
-### 2. Lifecycle
+### Lifecycle
 
-#### 2.1 Acquisition
-##### 2.1.1 Information Compression
+#### Acquisition
+##### Information Compression
 - HiAgent (Hu et al., 2024)
 - LMAgent (Liu et al., 2024)
 - ReadAgent (Lee et al., 2024)
 - M²WF (Wang et al., 2025)
 
-##### 2.1.2 Experience Consolidation
+##### Experience Consolidation
 - ExpeL (Zhao et al., 2024)
 - MindOS (Hu et al., 2025)
 - Vanschoren et al. (2018)
 - Hou et al. (2024)
 
-#### 2.2 Encoding
-##### 2.2.1 Selective Attention
+#### Encoding
+##### Selective Attention
 - AgentCorrd (Pan et al., 2024)
 - MS (Gao et al., 2024)
 - GraphVideoAgent (Chu et al., 2025)
 - A-MEM (Xu et al., 2025)
 - Ali et al. (2024)
 
-##### 2.2.2 Multi-modal Fusion
+##### Multi-modal Fusion
 - Optimus-1 (Li et al., 2024)
 - Optimus-2 (Li et al., 2025)
 - JARVIS-1 (Wang et al., 2024)
 
-#### 2.3 Derivation
-##### 2.3.1 Reflection
+#### Derivation
+##### Reflection
 - Agent S (Agashe et al., 2024)
 - OSCAR (Wang et al., 2024)
 - R2D2 (Huang et al., 2025)
 - Mobile-Agent-E (Wang et al., 2025)
 
-##### 2.3.2 Summarization
+##### Summarization
 - SummEdits (Laban et al., 2023)
 - SCM (Wang et al., 2023)
 - Healthcare Copilot (Ren et al., 2024)
 - Wang et al. (2023)
 
-##### 2.3.3 Knowledge Distillation
+##### Knowledge Distillation
 - Knowagent (Zhu et al., 2024)
 - AoTD (Shi et al., 2024)
 - LDPD (Liu et al., 2024)
 - Sub-goal Distillation (Hashemzadeh et al., 2024)
 - MAGDi (Chen et al., 2024)
 
-##### 2.3.4 Selective Forgetting
+##### Selective Forgetting
 - Lyfe Agent (Kaiya et al., 2023)
 - TiM (Liu et al., 2023)
 - MemoryBank (Zhong et al., 2024)
 - S³ (Gao et al., 2023)
 - Hou et al. (2024)
 
-#### 2.4 Retrieval
-##### 2.4.1 Indexing
+#### Retrieval
+##### Indexing
 - HippoRAG (Gutierrez et al., 2024)
 - TradingGPT (Li et al., 2023)
 - LongMemEval (Wu et al., 2024)
 - SeCom (Pan et al., 2025)
 
-##### 2.4.2 Matching
+##### Matching
 - Product Keys (Lample et al., 2019)
 - OSAgent (Xu et al., 2024)
 - Bahdanau et al. (2014)
 - Hou et al. (2024)
 
-#### 2.5 Neural Memory
-##### 2.5.1 Associative Memory
+#### Neural Memory
+##### Associative Memory
 - Hopfield Networks (Demircigil et al., 2017; Ramsauer et al., 2020)
 - Neural Turing Machines (Falcon et al., 2022)
 
-##### 2.5.2 Parameter Integration
+##### Parameter Integration
 - MemoryLLM (Wang et al., 2024)
 - SELF-PARAM (Wang et al., 2024)
 - MemoRAG (Qian et al., 2024)
@@ -274,21 +274,21 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - Titans (Behrouz et al., 2024)
 - R³Mem (Wang et al., 2025)
 
-#### 2.6 Utilization
-##### 2.6.1 RAG
+#### Utilization
+##### RAG
 - RAGLAB (Zhang et al., 2024)
 - Adaptive Retrieval (Mallen et al., 2023)
 - Atlas (Farahani et al., 2024)
 - Yuan et al. (2025)
 
-##### 2.6.2 Long-context Modeling
+##### Long-context Modeling
 - RMT (Bulatov et al., 2022, 2023)
 - AutoCompressor (Chevalier et al., 2023)
 - ICAE (Ge et al., 2023)
 - Gist (Mu et al., 2024)
 - CompAct (Yoon et al., 2024)
 
-##### 2.6.3 Alleviating Hallucination
+##### Alleviating Hallucination
 - Lamini (Li et al., 2024)
 - Memoria (Park et al., 2023)
 - PEER (He et al., 2024)
