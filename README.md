@@ -246,39 +246,36 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **MemoryBank: Enhancing Large Language Models with Long-Term Memory**, AAAI 2024, [[paper](https://arxiv.org/abs/2308.08589)] [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]  
 - **S³: Social-Network Simulation System with Large Language Model-Empowered Agents**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.14984)] [[code](https://github.com/GA-S3/Social-Simulation)]  
 - **MyAgent: Integrating Dynamic Human-Like Memory Recall and Consolidation in LLM-Based Agents**, CHI 2024 Late-Breaking Work, [[paper](https://arxiv.org/abs/2402.02485)] [[code](https://github.com/tamoharu/Agent-Memory-CHI24)]
+- 
 
 #### Retrieval
 ##### Indexing
-- HippoRAG (Gutierrez et al., 2024)
-- TradingGPT (Li et al., 2023)
-- LongMemEval (Wu et al., 2024)
-- SeCom (Pan et al., 2025)
+- **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**, NeurIPS 2024, [[paper](https://openreview.net/forum?id=Rz1nVVnp4P)] [[project](https://ix.cs.uoregon.edu/~apouranb/hmn/hmn.html)] [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
+- **TradingGPT: Multi-Agent System with Layered Memory for Simulated Stock Trading**, arXiv 2023, [[paper](https://arxiv.org/abs/2311.05767)]
+- **LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**, ICLR 2025, [[paper](https://openreview.net/forum?id=go6gKVh6bV)] [[code](https://github.com/xiaowu0162/LongMemEval)]
+- **SeCom: Memory Construction and Retrieval for Long-Term Personalized Conversational Agents**, ICLR 2025, [[paper](https://openreview.net/forum?id=5eY3sG8o2k)] [[project](https://aka.ms/SECOM)] [[blog](https://www.microsoft.com/en-us/research/blog/secom-building-retrieval-based-long-term-memory-for-personalized-conversational-agents/)]
 
 ##### Matching
-- Product Keys (Lample et al., 2019)
-- OSAgent (Xu et al., 2024)
-- Bahdanau et al. (2014)
-- Hou et al. (2024)
+- **Large Memory Layers with Product Keys**, NeurIPS 2019, [[paper](https://arxiv.org/abs/1907.05242)] [[code](https://github.com/facebookresearch/XLM)]
+- **OSAgent: Copiloting Operating System with LLM-based Agent**, IJCNN 2024, [[paper](https://dblp.org/rec/conf/ijcnn/Xu0C24.html)]
 
 #### Neural Memory
 ##### Associative Memory
-- Hopfield Networks (Demircigil et al., 2017; Ramsauer et al., 2020)
-- Neural Turing Machines (Falcon et al., 2022)
+- **Hopfield Networks is All You Need**, NeurIPS 2020, [[paper](https://arxiv.org/abs/2008.02217)] [[code](https://github.com/ml-jku/hopfield-layers)]
+- **Neural Turing Machines for the Remaining Useful Life Estimation Problem**, Computers in Industry 2022, [[paper](https://www.sciencedirect.com/science/article/pii/S0166361522001678)] [[code](https://github.com/aranciokov/NTM-For-RULEstimation)]
 
 ##### Parameter Integration
-- MemoryLLM (Wang et al., 2024)
-- SELF-PARAM (Wang et al., 2024)
-- MemoRAG (Qian et al., 2024)
-- TTT-Layer (Sun et al., 2024)
-- Titans (Behrouz et al., 2024)
-- R³Mem (Wang et al., 2025)
+- **MemoryLLM: Towards Self-Updatable Large Language Models**, ICML 2024, [[paper](https://cseweb.ucsd.edu/~jmcauley/reviews/icml24c.pdf)] [[code](https://github.com/wangyu-ustc/MemoryLLM)]
+- **SELF-PARAM: Self-Parameterized Retrofitting for Large Language Models**, ICLR 2025, [[paper](https://openreview.net/forum?id=2f1e7xxycZ)] [[code](https://github.com/XinshuangL/SELF-PARAM)]
+- **MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**, The Web Conference (WWW) 2025, [[paper](https://arxiv.org/abs/2409.05591)] [[code](https://github.com/qhjqhj00/MemoRAG)]
+- **Learning to (Learn at Test Time): RNNs with Expressive Hidden States**, ICLR 2025, [[paper](https://openreview.net/forum?id=N0bdUqPjbB)] [[code](https://github.com/test-time-training/ttt-lm-pytorch)]
+- **Titans: Learning to Memorize at Test Time**, arXiv 2024, [[paper](https://arxiv.org/abs/2411.08544)] [[unofficial code](https://github.com/lucidrains/titans-pytorch)]
+- **R³Mem: A Third-Order Memory for Large Language Models**, ICLR 2025 (to appear), [[paper](https://arxiv.org/abs/2412.06607)]
 
 #### Utilization
 ##### RAG
-- RAGLAB (Zhang et al., 2024)
-- Adaptive Retrieval (Mallen et al., 2023)
-- Atlas (Farahani et al., 2024)
-- Yuan et al. (2025)
+- **RAGLAB: Research Platform for Retrieval-Augmented Generation**, EMNLP 2024, [[paper](https://arxiv.org/abs/2407.03005)] [[code](https://github.com/fate-ubw/RAGLAB)]
+- **Atlas: Few-shot Learning with Retrieval Augmented Language Models**, arXiv 2022, [[paper](https://arxiv.org/abs/2208.03299)] [[code](https://github.com/facebookresearch/atlas)]
 
 ##### Long-context Modeling
 - RMT (Bulatov et al., 2022, 2023)
