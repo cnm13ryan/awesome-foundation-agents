@@ -148,7 +148,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Sensory
 ##### Text‑based
-- **RecAgent: A Novel Simulation Paradigm for Recommender Systems**, arXiv 2023, [[paper](https://arxiv.org/abs/2306.02552)] [[code](https://github.com/RUC-GSAI/YuLan-Rec)]
+- **RecAgent: A Novel Simulation Paradigm for Recommender Systems**, TOIS 2025, [[paper](https://arxiv.org/abs/2306.02552)] [[code](https://github.com/RUC-GSAI/YuLan-Rec)]
 - **CoPS: Cognitive Personalized Search: Integrating Large Language Models with an Efficient Memory Mechanism**, WWW 2024, [[paper](https://arxiv.org/abs/2403.15264)]
 - **MemoryBank: Enhancing Large Language Models with Long‑Term Memory**, AAAI 2024, [[paper](https://arxiv.org/abs/2308.08589)] [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 - **Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents**, UIST 2023 Adjunct, [[paper](https://arxiv.org/abs/2309.09631)]
@@ -177,12 +177,12 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Long‑term
 ##### Semantic
 - **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2407.04363)] [[code](https://github.com/AIRI-Institute/AriGraph)]
-- RecAgent: see above
+- **RecAgent**: see above
 - **HippoRAG: Neurobiologically Inspired Long‑Term Memory for Large Language Models**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2405.14831)] [[code](https://github.com/OSU-NLP-Group/HippoRAG)]
 
 ##### Episodic
 - **MobileGPT: Augmenting LLM with Human‑like App Memory for Mobile Task Automation**, ACM MobiCom 2024, [[paper](https://arxiv.org/abs/2312.03003)]
-- MemoryBank: see above
+- **MemoryBank**: see above
 - **Episodic Memory Verbalization Using Hierarchical Representations of Life‑Long Robot Experience**, arXiv 2024, [[paper](https://arxiv.org/abs/2409.17702)] [[code](https://hierarchical-emv.github.io)]
 - **MrSteve: Instruction‑Following Agents in Minecraft with What‑Where‑When Memory**, ICLR 2025, [[paper](https://arxiv.org/abs/2406.0)] *(project code pending)*
 
@@ -205,8 +205,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ##### Experience Consolidation
 - **ExpeL: LLM Agents Are Experiential Learners**, AAAI 2024, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29317)] [[code](https://github.com/LeapLabTHU/ExpeL)]
 - **Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**, arXiv 2025, [[paper](https://arxiv.org/abs/2503.03459)]
-- **Meta‑Learning: A Survey**, arXiv 2018, [[paper](https://arxiv.org/abs/1810.03548)]
-- **“My agent understands me better”: Integrating Dynamic Human‑Like Memory Recall and Consolidation in LLM‑Based Agents**, CHI 2024, [[paper](https://arxiv.org/abs/2402.02485)] [[code](https://github.com/tamoharu/Agent-Memory-CHI24)]
+- **Meta‑Learning: A Survey**, PAMI 2021, [[paper](https://arxiv.org/abs/1810.03548)]
+- **``My agent understands me better'': Integrating Dynamic Human‑Like Memory Recall and Consolidation in LLM‑Based Agents**, CHI 2024, [[paper](https://arxiv.org/abs/2402.02485)] [[code](https://github.com/tamoharu/Agent-Memory-CHI24)]
 
 #### Encoding
 ##### Selective Attention
@@ -214,7 +214,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **Memory Sharing for Large Language Model Based Agents**, arXiv 2024, [[paper](https://arxiv.org/abs/2404.09982)]
 - **Understanding Long Videos via LLM‑Powered Entity Relation Graphs**, arXiv 2025, [[paper](https://arxiv.org/abs/2501.15953)]
 - **A-MEM: Agentic Memory for LLM Agents**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.12110)] [[code](https://github.com/WujiangXu/AgenticMemory)]
-- **The Hidden Attention of Mamba Models**, ACL 2025, [[paper](https://aclanthology.org/2025.acl-long.82)] [[code](https://github.com/AmeenAli/HiddenMambaAttn)]
+- **Robots Can Multitask Too: Integrating a Memory Architecture and LLMs for Enhanced Cross-Task Robot Action Generation**, Humanoids 2024, [[paper](https://ieeexplore.ieee.org/abstract/document/10769803)]
 
 ##### Multi-modal Fusion
 - **Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2408.03615)] [[code](https://github.com/JiuTian-VL/Optimus-1)]
@@ -231,7 +231,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ##### Summarization
 - **SummEdits: Edit-based Factuality-Oriented Summarization**, EMNLP 2023, [[paper](https://aclanthology.org/2023.emnlp-main.600)] [[code](https://github.com/salesforce/summedits)]  
 - **SCM: Enhancing Large Language Model with Self-Controlled Memory Framework**, DASFAA 2025, [[paper](https://arxiv.org/abs/2310.04521)] [[code](https://github.com/wbbeyourself/SCM4LLMs)] 
-- **Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.10045)]  
+- **Healthcare Copilot: Eliciting the Power of General LLMs for Medical Consultation**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.10045)]
+- **Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**, Neurocomputing 2025, [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225008653)]
 
 ##### Knowledge Distillation
 - **KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**, Findings of NAACL 2025, [[paper](https://arxiv.org/abs/2402.09419)] [[code](https://github.com/KnowAgent/KnowAgent)]  
@@ -245,8 +246,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **TiM: Think-in-Memory Language Models**, ICLR 2024 (submitted), [[paper](https://openreview.net/forum?id=TiM24)]  
 - **MemoryBank: Enhancing Large Language Models with Long-Term Memory**, AAAI 2024, [[paper](https://arxiv.org/abs/2308.08589)] [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]  
 - **S³: Social-Network Simulation System with Large Language Model-Empowered Agents**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.14984)] [[code](https://github.com/GA-S3/Social-Simulation)]  
-- **MyAgent: Integrating Dynamic Human-Like Memory Recall and Consolidation in LLM-Based Agents**, CHI 2024 Late-Breaking Work, [[paper](https://arxiv.org/abs/2402.02485)] [[code](https://github.com/tamoharu/Agent-Memory-CHI24)]
-- 
+- **``My agent understands me better''**: see above
 
 #### Retrieval
 ##### Indexing
@@ -258,10 +258,13 @@ We maintain a curated collection of papers exploring the path towards Foundation
 ##### Matching
 - **Large Memory Layers with Product Keys**, NeurIPS 2019, [[paper](https://arxiv.org/abs/1907.05242)] [[code](https://github.com/facebookresearch/XLM)]
 - **OSAgent: Copiloting Operating System with LLM-based Agent**, IJCNN 2024, [[paper](https://dblp.org/rec/conf/ijcnn/Xu0C24.html)]
+- **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR 2015, [[paper](https://arxiv.org/abs/1409.0473)]
+- **``My agent understands me better''**: see above
 
 #### Neural Memory
 ##### Associative Memory
 - **Hopfield Networks is All You Need**, NeurIPS 2020, [[paper](https://arxiv.org/abs/2008.02217)] [[code](https://github.com/ml-jku/hopfield-layers)]
+- **Hopfield Networks is All You Need**, ICLR 2021, [[paper](https://openreview.net/pdf?id=tL89RnzIiCd)]
 - **Neural Turing Machines for the Remaining Useful Life Estimation Problem**, Computers in Industry 2022, [[paper](https://www.sciencedirect.com/science/article/pii/S0166361522001678)] [[code](https://github.com/aranciokov/NTM-For-RULEstimation)]
 
 ##### Parameter Integration
@@ -275,21 +278,23 @@ We maintain a curated collection of papers exploring the path towards Foundation
 #### Utilization
 ##### RAG
 - **RAGLAB: Research Platform for Retrieval-Augmented Generation**, EMNLP 2024, [[paper](https://arxiv.org/abs/2407.03005)] [[code](https://github.com/fate-ubw/RAGLAB)]
+- **When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories**, ACL 2023, [[paper](https://aclanthology.org/2023.acl-long.546.pdf)]
 - **Atlas: Few-shot Learning with Retrieval Augmented Language Models**, arXiv 2022, [[paper](https://arxiv.org/abs/2208.03299)] [[code](https://github.com/facebookresearch/atlas)]
+- **Personalized Large Language Model Assistant with Evolving Conditional Memory**, COLING 2025, [[paper](https://aclanthology.org/2025.coling-main.254.pdf)]
 
 ##### Long-context Modeling
-- RMT (Bulatov et al., 2022, 2023)
-- AutoCompressor (Chevalier et al., 2023)
-- ICAE (Ge et al., 2023)
-- Gist (Mu et al., 2024)
-- CompAct (Yoon et al., 2024)
+- **Recurrent Memory Transformer**, Neurips 2022, [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/47e288629a6996a17ce50b90a056a0e1-Paper-Conference.pdf)]
+- **Scaling Transformer to 1M tokens and beyond with RMT**, arXiv 2023, [[paper](https://arxiv.org/pdf/2304.11062)]
+- **Adapting Language Models to Compress Contexts**, EMNLP 2023, [[paper](https://aclanthology.org/2023.emnlp-main.232.pdf)]
+- **In-context Autoencoder for Context Compression in a Large Language Model**, ICLR 2024, [[paper](https://openreview.net/pdf?id=uREj4ZuGJE)]
+- **Learning to Compress Prompts with Gist Tokens**, NeurIPS 2023, [[paper](https://papers.nips.cc/paper_files/paper/2023/file/3d77c6dcc7f143aa2154e7f4d5e22d68-Paper-Conference.pdf)]
+- **CompAct: Compressing Retrieved Documents Actively for Question Answering**, EMNLP 2024, [[paper](https://aclanthology.org/2024.emnlp-main.1194.pdf)]
 
 ##### Alleviating Hallucination
-- Lamini (Li et al., 2024)
-- Memoria (Park et al., 2023)
-- PEER (He et al., 2024)
-- Ding et al. (2024)
-
+- **Banishing LLM Hallucinations Requires Rethinking Generalization**, arXiv 2024, [[paper](https://arxiv.org/pdf/2406.17642)]
+- **Memoria: Resolving Fateful Forgetting Problem through Human-Inspired Memory Architecture**, ICML 2024, [[paper](https://openreview.net/pdf?id=yTz0u4B8ug)]
+- **Mixture of A Million Experts**, arXiv 2024, [[paper](https://arxiv.org/pdf/2407.04153)]
+- **Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/pdf/2402.10612)]
 
 ## Perception
 <div style="display: flex; justify-content: space-between;">
